@@ -1,0 +1,2776 @@
+* http://forum.mainroad.org.ua/forum/
+** In [[6810/Evolution]] on 2010-11-11 13:33:17, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-11 15:25:56, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-14 02:01:53, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-17 02:01:40, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Name or service not known'
+* http://www.extreme.ncport.ru/
+** In [[6810/Evolution]] on 2010-11-11 13:33:18, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-14 02:01:54, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-17 02:01:41, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Connection refused'
+* http://hitchathering.org/press
+** In [[6810/Press]] on 2010-11-11 13:33:18, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-11 15:25:57, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-12 02:01:39, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-14 02:01:54, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-16 02:01:43, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-17 02:01:41, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-19 02:01:34, Socket Error: 'Name or service not known'
+* http://www.alien.ru/~blast/
+** In [[6810/Evolution]] on 2010-11-11 13:33:19, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-12 02:01:39, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-13 02:01:59, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-14 02:01:55, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-15 02:01:48, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-16 02:01:44, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-17 02:01:42, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-18 02:01:26, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 02:01:36, 404 Not Found
+* http://www.the789project.com/
+** In [[789]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-11 15:25:59, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/user/register
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:55, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/
+** In [[789]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-11 15:25:59, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/forum
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:32, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+* http://the789project.com/
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/user/register
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:55, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/forum
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:32, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+* http://the789project.eu
+** In [[789/News]] on 2010-11-11 13:33:21, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-16 02:01:45, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-19 02:01:45, Socket Error: 'Name or service not known'
+* http://the789project.eu/
+** In [[789/Website]] on 2010-11-11 13:33:23, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-11 15:26:03, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-12 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-13 02:02:03, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-14 02:01:57, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-15 02:01:50, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-16 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-18 02:01:28, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-19 02:01:46, Socket Error: 'Name or service not known'
+* http://www.the789project.eu
+** In [[789/Press]] on 2010-11-11 13:33:22, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-11 15:26:02, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-12 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-13 02:02:02, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-14 02:01:57, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-15 02:01:50, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-16 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-18 02:01:28, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-19 02:01:47, Socket Error: 'Name or service not known'
+* http://www.the789project.com
+** In [[789/Website]] on 2010-11-11 13:33:23, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-11 15:26:05, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-12 02:01:43, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-13 02:02:03, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-14 02:01:58, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-15 02:01:50, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-16 02:01:46, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-17 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-18 02:01:28, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-19 02:01:48, Socket Error: 'Temporary failure in name resolution'
+* http://www.mytravelphotos.eu/websites/the789project
+** In [[789/Website]] on 2010-11-11 13:33:24, 404 Not Found
+** In [[789/Website]] on 2010-11-11 15:26:07, 404 Not Found
+** In [[789/Website]] on 2010-11-12 02:01:44, 404 Not Found
+** In [[789/Website]] on 2010-11-13 02:02:04, 404 Not Found
+** In [[789/Website]] on 2010-11-14 02:01:58, 404 Not Found
+** In [[789/Website]] on 2010-11-15 02:01:52, 404 Not Found
+** In [[789/Website]] on 2010-11-16 02:01:48, 404 Not Found
+** In [[789/Website]] on 2010-11-17 02:01:44, 404 Not Found
+** In [[789/Website]] on 2010-11-18 02:01:30, 404 Not Found
+** In [[789/Website]] on 2010-11-19 02:01:49, 404 Not Found
+* http://forum.mainroad.org.ua/forum/viewtopic.php?p=35961#35961
+** In [[789/coordination]] on 2010-11-11 15:26:10, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-12 02:01:45, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-13 02:02:06, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-14 02:02:00, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-15 02:01:53, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-16 02:01:49, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-17 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-18 02:01:32, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-19 02:01:51, Socket Error: 'Name or service not known'
+* http://www.extreme.ncport.ru/
+** In [[6810/Evolution]] on 2010-11-11 13:33:18, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-14 02:01:54, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-17 02:01:41, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Connection refused'
+* http://abgefahren.hitchbase.com/schwachsinn
+** In [[789/coordination]] on 2010-11-11 15:26:17, 403 Forbidden
+** In [[789/coordination]] on 2010-11-12 02:01:52, 403 Forbidden
+** In [[789/coordination]] on 2010-11-13 02:02:10, 403 Forbidden
+** In [[789/coordination]] on 2010-11-14 02:02:05, 403 Forbidden
+** In [[789/coordination]] on 2010-11-15 02:01:59, 403 Forbidden
+** In [[789/coordination]] on 2010-11-16 02:01:54, 403 Forbidden
+** In [[789/coordination]] on 2010-11-17 02:01:48, 403 Forbidden
+** In [[789/coordination]] on 2010-11-18 02:01:34, 403 Forbidden
+** In [[789/coordination]] on 2010-11-19 02:01:51, 403 Forbidden
+* http://www.alien.ru/~blast/
+** In [[6810/Evolution]] on 2010-11-11 13:33:19, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-12 02:01:39, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-13 02:01:59, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-14 02:01:55, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-15 02:01:48, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-16 02:01:44, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-17 02:01:42, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-18 02:01:26, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 02:01:36, 404 Not Found
+* http://www.beta.abgefahren-ev.de
+** In [[Abgefahren e.V.]] on 2010-11-11 15:26:19, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-12 02:01:47, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-13 02:02:08, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-14 02:02:03, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-15 02:01:55, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-16 02:01:52, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-17 02:01:48, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-18 02:01:33, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-19 02:01:54, Socket Error: 'Name or service not known'
+* http://e67.times.lv/Web
+** In [[789/coordination]] on 2010-11-11 15:26:17, 404 Not Found
+** In [[789/coordination]] on 2010-11-12 02:01:47, 404 Not Found
+** In [[789/coordination]] on 2010-11-13 02:02:08, 404 Not Found
+** In [[789/coordination]] on 2010-11-14 02:02:03, 404 Not Found
+** In [[789/coordination]] on 2010-11-15 02:01:55, 404 Not Found
+** In [[789/coordination]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[789/coordination]] on 2010-11-17 02:01:48, 404 Not Found
+** In [[789/coordination]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[789/coordination]] on 2010-11-19 02:01:55, 404 Not Found
+* http://www.rbb-online.de/_/zibb/beitrag_jsp/key=6569563.html
+** In [[Abgefahren e.V.]] on 2010-11-11 15:26:20, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-13 02:02:08, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-14 02:02:03, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-15 02:01:55, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-16 02:01:53, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-17 02:01:48, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-18 02:01:33, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-19 02:01:58, 404 Not Found
+* http://traveloblog.com/trip/ludovic-hubler/asia-afghanistan-kabul-.html
+** In [[Afghanistan]] on 2010-11-11 15:26:23, 404 Not Found
+** In [[Afghanistan]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Afghanistan]] on 2010-11-13 02:02:09, 404 Not Found
+** In [[Afghanistan]] on 2010-11-14 02:02:04, 404 Not Found
+** In [[Afghanistan]] on 2010-11-15 02:01:58, 404 Not Found
+** In [[Afghanistan]] on 2010-11-16 02:01:54, 404 Not Found
+** In [[Afghanistan]] on 2010-11-17 02:01:49, 404 Not Found
+** In [[Afghanistan]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[Afghanistan]] on 2010-11-19 02:02:00, 404 Not Found
+* http://ns.nl/)
+** In [[Amsterdam]] on 2010-11-11 15:26:23, 404 Not Found
+** In [[Amsterdam]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Amsterdam]] on 2010-11-13 02:02:09, 404 Not Found
+** In [[Amsterdam]] on 2010-11-14 02:02:04, 404 Not Found
+** In [[Amsterdam]] on 2010-11-15 02:01:56, 404 Not Found
+** In [[Amsterdam]] on 2010-11-16 02:01:54, 404 Not Found
+** In [[Amsterdam]] on 2010-11-17 02:01:49, 404 Not Found
+** In [[Amsterdam]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[Amsterdam]] on 2010-11-19 02:02:02, 404 Not Found
+* http://www.fgc.net/accesible/cat/viatjar/s2.htm
+** In [[Barcelona]] on 2010-11-11 15:26:25, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-12 02:01:49, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-13 02:02:09, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-14 02:02:04, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-15 02:01:56, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-16 02:01:55, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-17 02:01:49, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-18 02:01:34, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-19 02:02:04, 404 Object Not Found
+* http://www.moesbooks.com/moes/
+** In [[Bay Area]] on 2010-11-11 15:26:26, 404 Not Found
+** In [[Bay Area]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Bay Area]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Bay Area]] on 2010-11-14 02:02:06, 404 Not Found
+** In [[Bay Area]] on 2010-11-15 02:01:58, 404 Not Found
+** In [[Bay Area]] on 2010-11-16 02:01:56, 404 Not Found
+** In [[Bay Area]] on 2010-11-17 02:01:50, 404 Not Found
+** In [[Bay Area]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Bay Area]] on 2010-11-19 02:02:16, 404 Not Found
+* http://www.austlii.edu.au/cgi-bin/disp.pl/au/legis/nsw/consol_reg/rr2008104/s236.html?query=Road%20Rules%202008%20REG%20236
+** In [[Australia]] on 2010-11-11 15:26:28, 400 Bad Request
+** In [[Australia]] on 2010-11-12 02:01:52, 400 Bad Request
+** In [[Australia]] on 2010-11-13 02:02:13, 400 Bad Request
+** In [[Australia]] on 2010-11-14 02:02:07, 400 Bad Request
+** In [[Australia]] on 2010-11-15 02:02:00, 400 Bad Request
+** In [[Australia]] on 2010-11-16 02:01:57, 400 Bad Request
+** In [[Australia]] on 2010-11-17 02:01:53, 400 Bad Request
+** In [[Australia]] on 2010-11-18 02:01:37, 400 Bad Request
+** In [[Australia]] on 2010-11-19 02:02:18, 400 Bad Request
+* http://oucs.blogspot.com/
+** In [[Blogging Hitchhikers]] on 2010-11-11 15:26:32, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-12 02:01:50, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-13 02:02:12, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-14 02:02:06, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-15 02:01:59, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-16 02:01:56, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-17 02:01:51, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-19 02:02:28, 404 Not Found
+=== Blo ===
+* http://lcd.org.uk/
+** In [[Blogging Hitchhikers]] on 2010-11-11 15:26:32, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-12 02:01:50, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-13 02:02:12, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-14 02:02:06, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-15 02:01:59, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-16 02:01:57, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-17 02:01:52, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-18 02:01:36, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-19 02:02:29, Socket Error: 'Name or service not known'
+* http://www.bkv.hu/angol/home/index.html
+** In [[Budapest]] on 2010-11-11 15:26:55, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:33, 404 Not Found
+* http://www.bkv.hu/english/busz/94gyors.html
+** In [[Budapest]] on 2010-11-11 15:26:59, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+* http://www.bkv.hu/english/troli/74vissza.html
+** In [[Budapest]] on 2010-11-11 15:27:05, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+* http://www.bkv.hu/english/busz/173evissza.html
+** In [[Budapest]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+* http://www.masspike.com/maps.html
+** In [[Boston]] on 2010-11-11 15:26:33, 404 Not Found
+** In [[Boston]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Boston]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Boston]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Boston]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Boston]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Boston]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Boston]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Boston]] on 2010-11-19 02:02:43, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/categorie/bloginhalt/aethiopien
+** In [[Ethiopia]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Ethiopia]] on 2010-11-12 02:01:53, 404 Not Found
+** In [[Ethiopia]] on 2010-11-13 02:02:14, 404 Not Found
+** In [[Ethiopia]] on 2010-11-14 02:02:09, 404 Not Found
+** In [[Ethiopia]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Ethiopia]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Ethiopia]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Ethiopia]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Ethiopia]] on 2010-11-19 02:02:45, 404 Not Found
+* http://www.couchsurfing.org)
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-11 15:26:43, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-12 02:01:51, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-13 02:02:13, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-14 02:02:07, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-15 02:01:59, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-16 02:01:57, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-17 02:01:52, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-18 02:01:36, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-19 02:02:46, Socket Error: 'Name or service not known'
+* http://www.asa-programm.de/en/aboutasa/partners.html
+** In [[Eurizons]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Eurizons]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Eurizons]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Eurizons]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Eurizons]] on 2010-11-15 02:01:59, 404 Not Found
+** In [[Eurizons]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Eurizons]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Eurizons]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Eurizons]] on 2010-11-19 02:02:48, 404 Not Found
+* http://horner-kreisel.hitchbase.com/
+** In [[Hamburg]] on 2010-11-11 15:26:45, 403 Forbidden
+** In [[Hamburg]] on 2010-11-12 02:01:51, 403 Forbidden
+** In [[Hamburg]] on 2010-11-13 02:02:14, 403 Forbidden
+** In [[Hamburg]] on 2010-11-14 02:02:07, 403 Forbidden
+** In [[Hamburg]] on 2010-11-15 02:02:00, 403 Forbidden
+** In [[Hamburg]] on 2010-11-16 02:01:57, 403 Forbidden
+** In [[Hamburg]] on 2010-11-17 02:01:52, 403 Forbidden
+** In [[Hamburg]] on 2010-11-18 02:01:37, 403 Forbidden
+** In [[Hamburg]] on 2010-11-19 02:02:48, 403 Forbidden
+* http://www.zsti.gliwice.pl/ptsm/index.html
+** In [[Gliwice]] on 2010-11-11 15:26:44, 404 Not Found
+** In [[Gliwice]] on 2010-11-12 02:01:52, 404 Not Found
+** In [[Gliwice]] on 2010-11-13 02:02:14, 404 Not Found
+** In [[Gliwice]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Gliwice]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Gliwice]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Gliwice]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Gliwice]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Gliwice]] on 2010-11-19 02:02:51, 404 Not Found
+* http://horner-kreisel.hitchbase.com/
+** In [[Hamburg]] on 2010-11-11 15:26:45, 403 Forbidden
+** In [[Hamburg]] on 2010-11-12 02:01:51, 403 Forbidden
+** In [[Hamburg]] on 2010-11-13 02:02:14, 403 Forbidden
+** In [[Hamburg]] on 2010-11-14 02:02:07, 403 Forbidden
+** In [[Hamburg]] on 2010-11-15 02:02:00, 403 Forbidden
+** In [[Hamburg]] on 2010-11-16 02:01:57, 403 Forbidden
+** In [[Hamburg]] on 2010-11-17 02:01:52, 403 Forbidden
+** In [[Hamburg]] on 2010-11-18 02:01:37, 403 Forbidden
+** In [[Hamburg]] on 2010-11-19 02:02:48, 403 Forbidden
+* http://hitchwiki.org/en/Abgefahren_e.V
+** In [[Hitchhiking clubs]] on 2010-11-11 15:26:50, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-13 02:02:15, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-15 02:02:01, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-16 02:01:59, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-17 02:01:53, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-18 02:01:38, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-19 02:03:03, 404 Not Found
+* http://www.no-comment.dk/index_paris.html
+** In [[Hitchhiking in movies]] on 2010-11-11 15:26:50, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-12 02:01:52, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-13 02:02:15, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-14 02:02:08, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-16 02:01:59, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-17 02:01:54, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-18 02:01:38, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-19 02:03:05, 404 Not Found
+* http://www.race2amsterdam.co.uk/
+** In [[Hitchhiking races]] on 2010-11-11 15:26:51, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-13 02:02:16, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-15 02:02:01, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-16 02:01:59, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-18 02:01:38, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-19 02:03:06, Socket Error: 'Name or service not known'
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-journey-eid-christmas
+** In [[Iran]] on 2010-11-11 15:26:57, 404 Not Found
+** In [[Iran]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Iran]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Iran]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Iran]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Iran]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Iran]] on 2010-11-17 02:01:54, 404 Not Found
+** In [[Iran]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Iran]] on 2010-11-19 02:03:07, 404 Not Found
+* http://www.j-sapa.or.jp/
+** In [[Japan]] on 2010-11-11 15:26:56, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-13 02:02:16, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-15 02:02:01, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-16 02:01:59, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-18 02:01:39, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-19 02:03:08, Socket Error: 'Name or service not known'
+* http://www.lcd.org.uk/events/hitch/
+** In [[Hitchhiking races]] on 2010-11-11 15:26:52, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-18 02:01:43, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-19 02:03:12, 404 Not Found
+* http://www.vihreahaltijatar.fi/
+** In [[Jyväskylä]] on 2010-11-11 15:26:57, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-13 02:02:17, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-15 02:02:02, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-16 02:02:00, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-18 02:01:39, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-19 02:03:17, Socket Error: 'Name or service not known'
+* http://www.jyvaskyla.fi/tiedotus/human_tech_city/index.php/2005-02
+** In [[Jyväskylä]] on 2010-11-11 15:26:57, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-19 02:03:27, 404 Not Found
+* http://www.lapland.fi/frontpage
+** In [[Lapland (Finland)]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-13 02:02:18, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-19 02:03:27, 404 Not Found
+* http://www.traversiers.gouv.qc.ca/trav/quebec/index.asp
+** In [[Levis]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Levis]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Levis]] on 2010-11-13 02:02:18, 404 Not Found
+** In [[Levis]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Levis]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Levis]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Levis]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Levis]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Levis]] on 2010-11-19 02:03:31, 404 Not Found
+* http://wiki.mega2000.de/moin.cgi/LiftersHalte
+** In [[Liftershalte.info]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-19 02:03:34, 404 Not Found
+* http://web.archive.org/web/20030625221556/http://www.mastery.net/travel/hitch.htm|Key
+** In [[Hitchhiking World Records]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-19 02:03:39, Socket Error: 'Connection timed out'
+* http://www.brisa.pt/BRISA/vPT/Viajar+na+Rede/Transito+Online/?tipo=estrada&idae=1
+** In [[Lisbon]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Lisbon]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Lisbon]] on 2010-11-13 02:02:57, Socket Error: 'Temporary failure in name resolution'
+** In [[Lisbon]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Lisbon]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Lisbon]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Lisbon]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Lisbon]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Lisbon]] on 2010-11-19 02:03:42, 404 Not Found
+* http://www.relais.ucl.ac.be/
+** In [[Louvain-la-Neuve]] on 2010-11-11 15:27:00, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-12 02:01:54, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-13 02:02:19, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-14 02:02:11, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-15 02:02:03, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-16 02:02:01, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-17 02:01:56, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-18 02:01:41, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-19 02:03:45, 403 Forbidden
+* http://www.traveline.org.uk/index.htm)
+** In [[Manchester]] on 2010-11-11 15:27:01, 404 Not Found
+** In [[Manchester]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Manchester]] on 2010-11-13 02:02:19, 404 Not Found
+** In [[Manchester]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Manchester]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Manchester]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Manchester]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Manchester]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Manchester]] on 2010-11-19 02:03:48, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-a-journey-eid-christmas
+** In [[Middle East]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Middle East]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Middle East]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Middle East]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Middle East]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Middle East]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Middle East]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Middle East]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[Middle East]] on 2010-11-19 02:03:49, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-a-journey-eid-christmas
+** In [[Middle East]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Middle East]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Middle East]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Middle East]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Middle East]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Middle East]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Middle East]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Middle East]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[Middle East]] on 2010-11-19 02:03:49, 404 Not Found
+* http://mkvrt.hu
+** In [[Miskolc]] on 2010-11-11 15:27:03, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-12 02:01:55, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-13 02:02:19, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-14 02:02:11, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-15 02:02:03, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-16 02:02:01, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-17 02:01:56, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-18 02:01:41, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-19 02:03:50, Socket Error: 'Name or service not known'
+=== Mun ===
+* http://www.autobahnatlas-online.de/A99.htm)
+** In [[Munich]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Munich]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Munich]] on 2010-11-13 02:02:19, 404 Not Found
+** In [[Munich]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Munich]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Munich]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Munich]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Munich]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Munich]] on 2010-11-19 02:04:00, 404 Not Found
+* http://www.volunteerconnection.net/why/VCfaq.html|a
+** In [[North America Hitch Gathering]] on 2010-11-11 15:27:06, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-12 02:01:56, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-14 02:02:12, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-16 02:02:03, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-19 02:04:03, 404 Not Found
+* http://abgefahren.hitchbase.com/node/376
+** In [[One page guide to safe hitchhiking]] on 2010-11-11 15:27:06, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-12 02:02:00, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-13 02:02:20, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-14 02:02:14, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-15 02:02:04, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-16 02:02:02, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-17 02:01:56, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-18 02:01:42, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-19 02:04:05, 403 Forbidden
+* http://freegan.org.uk/
+** In [[London]] on 2010-11-11 15:27:20, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-12 02:02:15, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-13 02:02:40, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-14 02:02:31, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-15 02:02:24, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-16 02:02:22, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-17 02:02:16, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-18 02:02:02, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-19 02:04:06, Socket Error: 'Temporary failure in name resolution'
+* http://www.rahhala.net/en/
+** In [[Online Resources]] on 2010-11-11 15:27:46, 404 Not Found
+** In [[Online Resources]] on 2010-11-12 02:01:56, 404 Not Found
+** In [[Online Resources]] on 2010-11-13 02:02:21, 404 Not Found
+** In [[Online Resources]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Online Resources]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Online Resources]] on 2010-11-16 02:02:03, 404 Not Found
+** In [[Online Resources]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Online Resources]] on 2010-11-18 02:01:43, 404 Not Found
+** In [[Online Resources]] on 2010-11-19 02:04:36, 404 Not Found
+* http://robingallup.com/2008/10/14/hitchhikers/
+** In [[Picking up hitchhikers]] on 2010-11-11 15:27:09, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-16 02:02:24, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-17 02:02:18, Socket Error: 'Connection timed out'
+** In [[Picking up hitchhikers]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-19 02:04:40, 404 Not Found
+* http://www.butterflyvalley.com
+** In [[Kelebekler Vadisi]] on 2010-11-11 15:27:58, HTTP Error: BadStatusLine
+** In [[Kelebekler Vadisi]] on 2010-11-19 02:04:41, HTTP Error: BadStatusLine
+* http://www.crossculturedtraveler.com/archives/JUN2002/Lead_Story.htm
+** In [[Pierre Trudeau]] on 2010-11-11 15:27:09, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-12 02:01:57, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-13 02:02:22, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-14 02:02:13, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-15 02:02:05, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-16 02:02:04, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-17 02:01:58, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-18 02:01:43, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-19 02:05:07, Socket Error: 'Temporary failure in name resolution'
+* http://www.todayszaman.com/tz-web/detaylar.do?load=detay&link=155284&bolum=101
+** In [[Pippa]] on 2010-11-11 15:27:08, 404 /tz-web/detaylar.do
+** In [[Pippa]] on 2010-11-12 02:01:57, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-13 02:02:22, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-14 02:02:14, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-15 02:02:05, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-16 02:02:04, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-17 02:01:58, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-18 02:01:44, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-19 02:05:08, 404 /detaylar.do
+* http://en.wikipedia.org/wiki/Pippa_Bacca
+** In [[Pippa]] on 2010-11-11 15:27:09, 404 Not Found
+** In [[Pippa]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Pippa]] on 2010-11-13 02:02:23, 404 Not Found
+** In [[Pippa]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Pippa]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Pippa]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Pippa]] on 2010-11-17 02:01:59, 404 Not Found
+** In [[Pippa]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Pippa]] on 2010-11-19 02:05:17, 404 Not Found
+* http://www.brisa.pt/Brisa/vPT/Viajar+na+Rede/A+Rede+Brisa/
+** In [[Portugal]] on 2010-11-11 15:27:10, 404 Not Found
+** In [[Portugal]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Portugal]] on 2010-11-13 02:03:02, Socket Error: 'Temporary failure in name resolution'
+** In [[Portugal]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Portugal]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Portugal]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Portugal]] on 2010-11-17 02:01:58, 404 Not Found
+** In [[Portugal]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Portugal]] on 2010-11-19 02:05:18, 404 Not Found
+* http://www.lcd.org.uk/events/hitch
+** In [[Political hitchhiking]] on 2010-11-11 15:27:10, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-13 02:02:23, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-16 02:02:05, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-17 02:02:00, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-18 02:01:46, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-19 02:05:19, 404 Not Found
+* http://www.maerkischeallgemeine.de/cms/beitrag/11238673/62249/Zwei_Studenten_kaempfen_fuer_eine_Tramper_Haltestelle_an.html
+** In [[Potsdam]] on 2010-11-11 15:27:10, 404 not found
+** In [[Potsdam]] on 2010-11-12 02:01:58, 404 not found
+** In [[Potsdam]] on 2010-11-13 02:02:23, 404 not found
+** In [[Potsdam]] on 2010-11-14 02:02:14, 404 not found
+** In [[Potsdam]] on 2010-11-15 02:02:05, 404 not found
+** In [[Potsdam]] on 2010-11-16 02:02:04, 404 not found
+** In [[Potsdam]] on 2010-11-17 02:01:58, 404 not found
+** In [[Potsdam]] on 2010-11-18 02:01:44, 404 not found
+** In [[Potsdam]] on 2010-11-19 02:05:19, 404 not found
+* http://www.parismatch.com/dans-l-oeil-de-match/reportages/le-projet-888-rassemble-les-autostoppeurs-europeens/(gid)/46523
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:11, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:01:58, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-19 02:05:24, 404 Not Found
+* http://www.hitchwiki.org/en/Video:Robino_Hitchhiking
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:15, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:02:02, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:24, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:09, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:06, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:02:01, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:51, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-19 02:05:27, 404 Not Found
+* http://hitchgathering.org/node/add/events
+** In [[6810/news]] on 2010-11-11 15:26:57, 403 Forbidden
+** In [[6810/news]] on 2010-11-12 02:02:18, 403 Forbidden
+** In [[6810/news]] on 2010-11-14 02:02:25, 403 Forbidden
+** In [[6810/news]] on 2010-11-17 02:02:38, 403 Forbidden
+** In [[6810/news]] on 2010-11-19 02:05:38, 403 Forbidden
+** In [[6810/news]] on 2010-11-19 02:05:38, 403 Forbidden
+* http://forum.mainroad.org.ua/forum/
+** In [[6810/Evolution]] on 2010-11-11 13:33:17, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-11 15:25:56, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-14 02:01:53, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-17 02:01:40, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 11:17:50, Socket Error: 'Name or service not known'
+* http://www.extreme.ncport.ru/
+** In [[6810/Evolution]] on 2010-11-11 13:33:18, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-14 02:01:54, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-17 02:01:41, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 11:17:55, Socket Error: 'Connection refused'
+* http://hitchathering.org/press
+** In [[6810/Press]] on 2010-11-11 13:33:18, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-11 15:25:57, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-12 02:01:39, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-14 02:01:54, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-16 02:01:43, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-17 02:01:41, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-19 02:01:34, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-19 11:17:57, Socket Error: 'Name or service not known'
+* http://www.alien.ru/~blast/
+** In [[6810/Evolution]] on 2010-11-11 13:33:19, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-12 02:01:39, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-13 02:01:59, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-14 02:01:55, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-15 02:01:48, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-16 02:01:44, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-17 02:01:42, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-18 02:01:26, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 02:01:36, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 11:18:02, 404 Not Found
+* http://forum.mainroad.org.ua/forum/
+** In [[6810/Evolution]] on 2010-11-11 13:33:17, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-11 15:25:56, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-14 02:01:53, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-17 02:01:40, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 11:17:50, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 13:37:15, Socket Error: 'Name or service not known'
+* http://www.extreme.ncport.ru/
+** In [[6810/Evolution]] on 2010-11-11 13:33:18, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-14 02:01:54, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-17 02:01:41, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 11:17:55, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 13:37:16, Socket Error: 'Connection refused'
+* http://forum.mainroad.org.ua/forum/
+** In [[6810/Evolution]] on 2010-11-11 13:33:17, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-11 15:25:56, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-14 02:01:53, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-17 02:01:40, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 11:17:50, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-20 02:01:30, Socket Error: 'Name or service not known'
+* http://www.extreme.ncport.ru/
+** In [[6810/Evolution]] on 2010-11-11 13:33:18, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-14 02:01:54, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-17 02:01:41, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 11:17:55, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-20 02:01:31, Socket Error: 'Connection refused'
+* http://hitchathering.org/press
+** In [[6810/Press]] on 2010-11-11 13:33:18, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-11 15:25:57, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-12 02:01:39, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-14 02:01:54, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-16 02:01:43, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-17 02:01:41, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-19 02:01:34, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-19 11:17:57, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-20 02:01:31, Socket Error: 'Name or service not known'
+* http://www.alien.ru/~blast/
+** In [[6810/Evolution]] on 2010-11-11 13:33:19, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-12 02:01:39, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-13 02:01:59, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-14 02:01:55, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-15 02:01:48, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-16 02:01:44, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-17 02:01:42, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-18 02:01:26, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 02:01:36, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 11:18:02, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-20 02:01:32, 404 Not Found
+* http://www.the789project.com/
+** In [[789]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-11 15:25:59, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 11:18:05, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-20 02:01:35, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/
+** In [[789]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-11 15:25:59, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 11:18:05, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-20 02:01:35, Socket Error: 'Temporary failure in name resolution'
+* http://the789project.com/
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:42, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/user/register
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:55, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:52, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/forum
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:32, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:52, Socket Error: 'Temporary failure in name resolution'
+* http://the789project.eu
+** In [[789/News]] on 2010-11-11 13:33:21, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-16 02:01:45, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-19 02:01:45, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-20 02:01:53, Socket Error: 'Name or service not known'
+* http://www.the789project.eu
+** In [[789/Press]] on 2010-11-11 13:33:22, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-11 15:26:02, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-12 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-13 02:02:02, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-14 02:01:57, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-15 02:01:50, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-16 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-18 02:01:28, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-19 02:01:47, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-20 02:01:55, Socket Error: 'Name or service not known'
+* http://the789project.eu/
+** In [[789/Website]] on 2010-11-11 13:33:23, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-11 15:26:03, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-12 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-13 02:02:03, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-14 02:01:57, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-15 02:01:50, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-16 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-18 02:01:28, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-19 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-20 02:01:57, Socket Error: 'Name or service not known'
+* http://www.the789project.com
+** In [[789/Website]] on 2010-11-11 13:33:23, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-11 15:26:05, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-12 02:01:43, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-13 02:02:03, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-14 02:01:58, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-15 02:01:50, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-16 02:01:46, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-17 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-18 02:01:28, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-19 02:01:48, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-20 02:02:01, Socket Error: 'Temporary failure in name resolution'
+* http://www.mytravelphotos.eu/websites/the789project
+** In [[789/Website]] on 2010-11-11 13:33:24, 404 Not Found
+** In [[789/Website]] on 2010-11-11 15:26:07, 404 Not Found
+** In [[789/Website]] on 2010-11-12 02:01:44, 404 Not Found
+** In [[789/Website]] on 2010-11-13 02:02:04, 404 Not Found
+** In [[789/Website]] on 2010-11-14 02:01:58, 404 Not Found
+** In [[789/Website]] on 2010-11-15 02:01:52, 404 Not Found
+** In [[789/Website]] on 2010-11-16 02:01:48, 404 Not Found
+** In [[789/Website]] on 2010-11-17 02:01:44, 404 Not Found
+** In [[789/Website]] on 2010-11-18 02:01:30, 404 Not Found
+** In [[789/Website]] on 2010-11-19 02:01:49, 404 Not Found
+** In [[789/Website]] on 2010-11-20 02:02:01, 404 Not Found
+* http://www.the789project.com/user/register
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:55, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:52, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/forum
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:32, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:52, Socket Error: 'Temporary failure in name resolution'
+* http://forum.mainroad.org.ua/forum/viewtopic.php?p=35961#35961
+** In [[789/coordination]] on 2010-11-11 15:26:10, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-12 02:01:45, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-13 02:02:06, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-14 02:02:00, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-15 02:01:53, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-16 02:01:49, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-17 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-18 02:01:32, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-19 02:01:51, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-20 02:02:04, Socket Error: 'Name or service not known'
+* http://www.extreme.ncport.ru/
+** In [[6810/Evolution]] on 2010-11-11 13:33:18, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-14 02:01:54, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-17 02:01:41, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 11:17:55, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-20 02:01:31, Socket Error: 'Connection refused'
+* http://www.alien.ru/~blast/
+** In [[6810/Evolution]] on 2010-11-11 13:33:19, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-12 02:01:39, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-13 02:01:59, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-14 02:01:55, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-15 02:01:48, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-16 02:01:44, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-17 02:01:42, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-18 02:01:26, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 02:01:36, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 11:18:02, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-20 02:01:32, 404 Not Found
+* http://abgefahren.hitchbase.com/schwachsinn
+** In [[789/coordination]] on 2010-11-11 15:26:17, 403 Forbidden
+** In [[789/coordination]] on 2010-11-12 02:01:52, 403 Forbidden
+** In [[789/coordination]] on 2010-11-13 02:02:10, 403 Forbidden
+** In [[789/coordination]] on 2010-11-14 02:02:05, 403 Forbidden
+** In [[789/coordination]] on 2010-11-15 02:01:59, 403 Forbidden
+** In [[789/coordination]] on 2010-11-16 02:01:54, 403 Forbidden
+** In [[789/coordination]] on 2010-11-17 02:01:48, 403 Forbidden
+** In [[789/coordination]] on 2010-11-18 02:01:34, 403 Forbidden
+** In [[789/coordination]] on 2010-11-19 02:01:51, 403 Forbidden
+** In [[789/coordination]] on 2010-11-20 02:02:09, 403 Forbidden
+* http://e67.times.lv/Web
+** In [[789/coordination]] on 2010-11-11 15:26:17, 404 Not Found
+** In [[789/coordination]] on 2010-11-12 02:01:47, 404 Not Found
+** In [[789/coordination]] on 2010-11-13 02:02:08, 404 Not Found
+** In [[789/coordination]] on 2010-11-14 02:02:03, 404 Not Found
+** In [[789/coordination]] on 2010-11-15 02:01:55, 404 Not Found
+** In [[789/coordination]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[789/coordination]] on 2010-11-17 02:01:48, 404 Not Found
+** In [[789/coordination]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[789/coordination]] on 2010-11-19 02:01:55, 404 Not Found
+** In [[789/coordination]] on 2010-11-20 02:02:17, 404 Not Found
+* http://www.beta.abgefahren-ev.de
+** In [[Abgefahren e.V.]] on 2010-11-11 15:26:19, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-12 02:01:47, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-13 02:02:08, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-14 02:02:03, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-15 02:01:55, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-16 02:01:52, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-17 02:01:48, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-18 02:01:33, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-19 02:01:54, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-20 02:02:19, Socket Error: 'Name or service not known'
+* http://www.rbb-online.de/_/zibb/beitrag_jsp/key=6569563.html
+** In [[Abgefahren e.V.]] on 2010-11-11 15:26:20, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-13 02:02:08, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-14 02:02:03, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-15 02:01:55, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-16 02:01:53, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-17 02:01:48, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-18 02:01:33, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-19 02:01:58, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-20 02:02:20, 404 Not Found
+* http://traveloblog.com/trip/ludovic-hubler/asia-afghanistan-kabul-.html
+** In [[Afghanistan]] on 2010-11-11 15:26:23, 404 Not Found
+** In [[Afghanistan]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Afghanistan]] on 2010-11-13 02:02:09, 404 Not Found
+** In [[Afghanistan]] on 2010-11-14 02:02:04, 404 Not Found
+** In [[Afghanistan]] on 2010-11-15 02:01:58, 404 Not Found
+** In [[Afghanistan]] on 2010-11-16 02:01:54, 404 Not Found
+** In [[Afghanistan]] on 2010-11-17 02:01:49, 404 Not Found
+** In [[Afghanistan]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[Afghanistan]] on 2010-11-19 02:02:00, 404 Not Found
+** In [[Afghanistan]] on 2010-11-20 02:02:22, 404 Not Found
+* http://ns.nl/)
+** In [[Amsterdam]] on 2010-11-11 15:26:23, 404 Not Found
+** In [[Amsterdam]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Amsterdam]] on 2010-11-13 02:02:09, 404 Not Found
+** In [[Amsterdam]] on 2010-11-14 02:02:04, 404 Not Found
+** In [[Amsterdam]] on 2010-11-15 02:01:56, 404 Not Found
+** In [[Amsterdam]] on 2010-11-16 02:01:54, 404 Not Found
+** In [[Amsterdam]] on 2010-11-17 02:01:49, 404 Not Found
+** In [[Amsterdam]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[Amsterdam]] on 2010-11-19 02:02:02, 404 Not Found
+** In [[Amsterdam]] on 2010-11-20 02:02:25, 404 Not Found
+* http://www.fgc.net/accesible/cat/viatjar/s2.htm
+** In [[Barcelona]] on 2010-11-11 15:26:25, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-12 02:01:49, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-13 02:02:09, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-14 02:02:04, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-15 02:01:56, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-16 02:01:55, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-17 02:01:49, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-18 02:01:34, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-19 02:02:04, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-20 02:02:27, 404 Object Not Found
+* http://www.moesbooks.com/moes/
+** In [[Bay Area]] on 2010-11-11 15:26:26, 404 Not Found
+** In [[Bay Area]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Bay Area]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Bay Area]] on 2010-11-14 02:02:06, 404 Not Found
+** In [[Bay Area]] on 2010-11-15 02:01:58, 404 Not Found
+** In [[Bay Area]] on 2010-11-16 02:01:56, 404 Not Found
+** In [[Bay Area]] on 2010-11-17 02:01:50, 404 Not Found
+** In [[Bay Area]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Bay Area]] on 2010-11-19 02:02:16, 404 Not Found
+** In [[Bay Area]] on 2010-11-20 02:02:30, 404 Not Found
+* http://www.austlii.edu.au/cgi-bin/disp.pl/au/legis/nsw/consol_reg/rr2008104/s236.html?query=Road%20Rules%202008%20REG%20236
+** In [[Australia]] on 2010-11-11 15:26:28, 400 Bad Request
+** In [[Australia]] on 2010-11-12 02:01:52, 400 Bad Request
+** In [[Australia]] on 2010-11-13 02:02:13, 400 Bad Request
+** In [[Australia]] on 2010-11-14 02:02:07, 400 Bad Request
+** In [[Australia]] on 2010-11-15 02:02:00, 400 Bad Request
+** In [[Australia]] on 2010-11-16 02:01:57, 400 Bad Request
+** In [[Australia]] on 2010-11-17 02:01:53, 400 Bad Request
+** In [[Australia]] on 2010-11-18 02:01:37, 400 Bad Request
+** In [[Australia]] on 2010-11-19 02:02:18, 400 Bad Request
+** In [[Australia]] on 2010-11-20 02:02:34, 400 Bad Request
+* http://oucs.blogspot.com/
+** In [[Blogging Hitchhikers]] on 2010-11-11 15:26:32, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-12 02:01:50, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-13 02:02:12, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-14 02:02:06, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-15 02:01:59, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-16 02:01:56, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-17 02:01:51, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-19 02:02:28, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-20 02:02:48, 404 Not Found
+=== Blo ===
+* http://lcd.org.uk/
+** In [[Blogging Hitchhikers]] on 2010-11-11 15:26:32, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-12 02:01:50, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-13 02:02:12, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-14 02:02:06, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-15 02:01:59, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-16 02:01:57, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-17 02:01:52, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-18 02:01:36, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-19 02:02:29, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-20 02:02:52, Socket Error: 'Name or service not known'
+* http://www.bkv.hu/angol/home/index.html
+** In [[Budapest]] on 2010-11-11 15:26:55, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:33, 404 Not Found
+** In [[Budapest]] on 2010-11-20 02:02:54, 404 Not Found
+* http://www.bkv.hu/english/busz/94gyors.html
+** In [[Budapest]] on 2010-11-11 15:26:59, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+** In [[Budapest]] on 2010-11-20 02:02:56, 404 Not Found
+* http://www.bkv.hu/english/troli/74vissza.html
+** In [[Budapest]] on 2010-11-11 15:27:05, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+** In [[Budapest]] on 2010-11-20 02:02:57, 404 Not Found
+* http://www.bkv.hu/english/busz/173evissza.html
+** In [[Budapest]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+** In [[Budapest]] on 2010-11-20 02:03:01, 404 Not Found
+* http://www.masspike.com/maps.html
+** In [[Boston]] on 2010-11-11 15:26:33, 404 Not Found
+** In [[Boston]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Boston]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Boston]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Boston]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Boston]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Boston]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Boston]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Boston]] on 2010-11-19 02:02:43, 404 Not Found
+** In [[Boston]] on 2010-11-20 02:03:07, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/categorie/bloginhalt/aethiopien
+** In [[Ethiopia]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Ethiopia]] on 2010-11-12 02:01:53, 404 Not Found
+** In [[Ethiopia]] on 2010-11-13 02:02:14, 404 Not Found
+** In [[Ethiopia]] on 2010-11-14 02:02:09, 404 Not Found
+** In [[Ethiopia]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Ethiopia]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Ethiopia]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Ethiopia]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Ethiopia]] on 2010-11-19 02:02:45, 404 Not Found
+** In [[Ethiopia]] on 2010-11-20 02:03:13, 404 Not Found
+* http://www.asa-programm.de/en/aboutasa/partners.html
+** In [[Eurizons]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Eurizons]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Eurizons]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Eurizons]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Eurizons]] on 2010-11-15 02:01:59, 404 Not Found
+** In [[Eurizons]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Eurizons]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Eurizons]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Eurizons]] on 2010-11-19 02:02:48, 404 Not Found
+** In [[Eurizons]] on 2010-11-20 02:03:16, 404 Not Found
+* http://www.couchsurfing.org)
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-11 15:26:43, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-12 02:01:51, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-13 02:02:13, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-14 02:02:07, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-15 02:01:59, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-16 02:01:57, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-17 02:01:52, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-18 02:01:36, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-19 02:02:46, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-20 02:03:19, Socket Error: 'Name or service not known'
+* http://www.zsti.gliwice.pl/ptsm/index.html
+** In [[Gliwice]] on 2010-11-11 15:26:44, 404 Not Found
+** In [[Gliwice]] on 2010-11-12 02:01:52, 404 Not Found
+** In [[Gliwice]] on 2010-11-13 02:02:14, 404 Not Found
+** In [[Gliwice]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Gliwice]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Gliwice]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Gliwice]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Gliwice]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Gliwice]] on 2010-11-19 02:02:51, 404 Not Found
+** In [[Gliwice]] on 2010-11-20 02:03:20, 404 Not Found
+* http://horner-kreisel.hitchbase.com/
+** In [[Hamburg]] on 2010-11-11 15:26:45, 403 Forbidden
+** In [[Hamburg]] on 2010-11-12 02:01:51, 403 Forbidden
+** In [[Hamburg]] on 2010-11-13 02:02:14, 403 Forbidden
+** In [[Hamburg]] on 2010-11-14 02:02:07, 403 Forbidden
+** In [[Hamburg]] on 2010-11-15 02:02:00, 403 Forbidden
+** In [[Hamburg]] on 2010-11-16 02:01:57, 403 Forbidden
+** In [[Hamburg]] on 2010-11-17 02:01:52, 403 Forbidden
+** In [[Hamburg]] on 2010-11-18 02:01:37, 403 Forbidden
+** In [[Hamburg]] on 2010-11-19 02:02:48, 403 Forbidden
+** In [[Hamburg]] on 2010-11-20 02:03:24, 403 Forbidden
+* http://horner-kreisel.hitchbase.com/
+** In [[Hamburg]] on 2010-11-11 15:26:45, 403 Forbidden
+** In [[Hamburg]] on 2010-11-12 02:01:51, 403 Forbidden
+** In [[Hamburg]] on 2010-11-13 02:02:14, 403 Forbidden
+** In [[Hamburg]] on 2010-11-14 02:02:07, 403 Forbidden
+** In [[Hamburg]] on 2010-11-15 02:02:00, 403 Forbidden
+** In [[Hamburg]] on 2010-11-16 02:01:57, 403 Forbidden
+** In [[Hamburg]] on 2010-11-17 02:01:52, 403 Forbidden
+** In [[Hamburg]] on 2010-11-18 02:01:37, 403 Forbidden
+** In [[Hamburg]] on 2010-11-19 02:02:48, 403 Forbidden
+** In [[Hamburg]] on 2010-11-20 02:03:24, 403 Forbidden
+* http://web.archive.org/web/20030625221556/http://www.mastery.net/travel/hitch.htm|Key
+** In [[Hitchhiking World Records]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-19 02:03:39, Socket Error: 'Connection timed out'
+** In [[Hitchhiking World Records]] on 2010-11-20 02:03:28, 404 Not Found
+* http://hitchwiki.org/en/Abgefahren_e.V
+** In [[Hitchhiking clubs]] on 2010-11-11 15:26:50, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-13 02:02:15, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-15 02:02:01, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-16 02:01:59, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-17 02:01:53, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-18 02:01:38, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-19 02:03:03, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-20 02:03:30, 404 Not Found
+* http://www.no-comment.dk/index_paris.html
+** In [[Hitchhiking in movies]] on 2010-11-11 15:26:50, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-12 02:01:52, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-13 02:02:15, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-14 02:02:08, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-16 02:01:59, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-17 02:01:54, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-18 02:01:38, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-19 02:03:05, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-20 02:03:32, 404 Not Found
+* http://www.race2amsterdam.co.uk/
+** In [[Hitchhiking races]] on 2010-11-11 15:26:51, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-13 02:02:16, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-15 02:02:01, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-16 02:01:59, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-18 02:01:38, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-19 02:03:06, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-20 02:03:35, Socket Error: 'Name or service not known'
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-journey-eid-christmas
+** In [[Iran]] on 2010-11-11 15:26:57, 404 Not Found
+** In [[Iran]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Iran]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Iran]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Iran]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Iran]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Iran]] on 2010-11-17 02:01:54, 404 Not Found
+** In [[Iran]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Iran]] on 2010-11-19 02:03:07, 404 Not Found
+** In [[Iran]] on 2010-11-20 02:03:36, 404 Not Found
+* http://www.j-sapa.or.jp/
+** In [[Japan]] on 2010-11-11 15:26:56, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-13 02:02:16, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-15 02:02:01, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-16 02:01:59, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-18 02:01:39, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-19 02:03:08, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-20 02:03:37, Socket Error: 'Name or service not known'
+* http://www.lcd.org.uk/events/hitch/
+** In [[Hitchhiking races]] on 2010-11-11 15:26:52, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-18 02:01:43, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-19 02:03:12, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-20 02:03:41, 404 Not Found
+* http://www.vihreahaltijatar.fi/
+** In [[Jyväskylä]] on 2010-11-11 15:26:57, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-13 02:02:17, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-15 02:02:02, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-16 02:02:00, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-18 02:01:39, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-19 02:03:17, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-20 02:03:51, Socket Error: 'Name or service not known'
+* http://www.jyvaskyla.fi/tiedotus/human_tech_city/index.php/2005-02
+** In [[Jyväskylä]] on 2010-11-11 15:26:57, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-19 02:03:27, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-20 02:03:53, 404 Not Found
+* http://www.lapland.fi/frontpage
+** In [[Lapland (Finland)]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-13 02:02:18, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-19 02:03:27, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-20 02:03:58, 404 Not Found
+* http://www.traversiers.gouv.qc.ca/trav/quebec/index.asp
+** In [[Levis]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Levis]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Levis]] on 2010-11-13 02:02:18, 404 Not Found
+** In [[Levis]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Levis]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Levis]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Levis]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Levis]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Levis]] on 2010-11-19 02:03:31, 404 Not Found
+** In [[Levis]] on 2010-11-20 02:04:02, 404 Not Found
+* http://wiki.mega2000.de/moin.cgi/LiftersHalte
+** In [[Liftershalte.info]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-19 02:03:34, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-20 02:04:09, 404 Not Found
+* http://www.brisa.pt/BRISA/vPT/Viajar+na+Rede/Transito+Online/?tipo=estrada&idae=1
+** In [[Lisbon]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Lisbon]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Lisbon]] on 2010-11-13 02:02:57, Socket Error: 'Temporary failure in name resolution'
+** In [[Lisbon]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Lisbon]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Lisbon]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Lisbon]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Lisbon]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Lisbon]] on 2010-11-19 02:03:42, 404 Not Found
+** In [[Lisbon]] on 2010-11-20 02:04:13, 404 Not Found
+* http://www.relais.ucl.ac.be/
+** In [[Louvain-la-Neuve]] on 2010-11-11 15:27:00, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-12 02:01:54, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-13 02:02:19, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-14 02:02:11, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-15 02:02:03, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-16 02:02:01, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-17 02:01:56, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-18 02:01:41, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-19 02:03:45, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-20 02:04:14, 403 Forbidden
+* http://www.traveline.org.uk/index.htm)
+** In [[Manchester]] on 2010-11-11 15:27:01, 404 Not Found
+** In [[Manchester]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Manchester]] on 2010-11-13 02:02:19, 404 Not Found
+** In [[Manchester]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Manchester]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Manchester]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Manchester]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Manchester]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Manchester]] on 2010-11-19 02:03:48, 404 Not Found
+** In [[Manchester]] on 2010-11-20 02:04:16, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-a-journey-eid-christmas
+** In [[Middle East]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Middle East]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Middle East]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Middle East]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Middle East]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Middle East]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Middle East]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Middle East]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[Middle East]] on 2010-11-19 02:03:49, 404 Not Found
+** In [[Middle East]] on 2010-11-20 02:04:21, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-a-journey-eid-christmas
+** In [[Middle East]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Middle East]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Middle East]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Middle East]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Middle East]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Middle East]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Middle East]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Middle East]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[Middle East]] on 2010-11-19 02:03:49, 404 Not Found
+** In [[Middle East]] on 2010-11-20 02:04:21, 404 Not Found
+* http://mkvrt.hu
+** In [[Miskolc]] on 2010-11-11 15:27:03, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-12 02:01:55, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-13 02:02:19, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-14 02:02:11, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-15 02:02:03, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-16 02:02:01, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-17 02:01:56, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-18 02:01:41, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-19 02:03:50, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-20 02:04:26, Socket Error: 'Name or service not known'
+=== Mun ===
+* http://www.autobahnatlas-online.de/A99.htm)
+** In [[Munich]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Munich]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Munich]] on 2010-11-13 02:02:19, 404 Not Found
+** In [[Munich]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Munich]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Munich]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Munich]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Munich]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Munich]] on 2010-11-19 02:04:00, 404 Not Found
+** In [[Munich]] on 2010-11-20 02:04:27, 404 Not Found
+* http://freegan.org.uk/
+** In [[London]] on 2010-11-11 15:27:20, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-12 02:02:15, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-13 02:02:40, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-14 02:02:31, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-15 02:02:24, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-16 02:02:22, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-17 02:02:16, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-18 02:02:02, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-19 02:04:06, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-20 02:04:35, Socket Error: 'Temporary failure in name resolution'
+* http://www.volunteerconnection.net/why/VCfaq.html|a
+** In [[North America Hitch Gathering]] on 2010-11-11 15:27:06, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-12 02:01:56, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-14 02:02:12, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-16 02:02:03, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-19 02:04:03, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-20 02:04:57, 404 Not Found
+* http://www.butterflyvalley.com
+** In [[Kelebekler Vadisi]] on 2010-11-11 15:27:58, HTTP Error: BadStatusLine
+** In [[Kelebekler Vadisi]] on 2010-11-19 02:04:41, HTTP Error: BadStatusLine
+** In [[Kelebekler Vadisi]] on 2010-11-20 02:05:00, HTTP Error: BadStatusLine
+* http://abgefahren.hitchbase.com/node/376
+** In [[One page guide to safe hitchhiking]] on 2010-11-11 15:27:06, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-12 02:02:00, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-13 02:02:20, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-14 02:02:14, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-15 02:02:04, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-16 02:02:02, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-17 02:01:56, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-18 02:01:42, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-19 02:04:05, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-20 02:05:22, 403 Forbidden
+* http://www.rahhala.net/en/
+** In [[Online Resources]] on 2010-11-11 15:27:46, 404 Not Found
+** In [[Online Resources]] on 2010-11-12 02:01:56, 404 Not Found
+** In [[Online Resources]] on 2010-11-13 02:02:21, 404 Not Found
+** In [[Online Resources]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Online Resources]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Online Resources]] on 2010-11-16 02:02:03, 404 Not Found
+** In [[Online Resources]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Online Resources]] on 2010-11-18 02:01:43, 404 Not Found
+** In [[Online Resources]] on 2010-11-19 02:04:36, 404 Not Found
+** In [[Online Resources]] on 2010-11-20 02:05:48, 404 Not Found
+* http://robingallup.com/2008/10/14/hitchhikers/
+** In [[Picking up hitchhikers]] on 2010-11-11 15:27:09, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-16 02:02:24, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-17 02:02:18, Socket Error: 'Connection timed out'
+** In [[Picking up hitchhikers]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-19 02:04:40, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-20 02:05:51, 404 Not Found
+* http://www.crossculturedtraveler.com/archives/JUN2002/Lead_Story.htm
+** In [[Pierre Trudeau]] on 2010-11-11 15:27:09, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-12 02:01:57, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-13 02:02:22, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-14 02:02:13, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-15 02:02:05, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-16 02:02:04, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-17 02:01:58, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-18 02:01:43, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-19 02:05:07, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-20 02:05:56, Socket Error: 'Temporary failure in name resolution'
+* http://www.todayszaman.com/tz-web/detaylar.do?load=detay&link=155284&bolum=101
+** In [[Pippa]] on 2010-11-11 15:27:08, 404 /tz-web/detaylar.do
+** In [[Pippa]] on 2010-11-12 02:01:57, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-13 02:02:22, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-14 02:02:14, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-15 02:02:05, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-16 02:02:04, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-17 02:01:58, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-18 02:01:44, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-19 02:05:08, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-20 02:05:57, 404 /detaylar.do
+* http://en.wikipedia.org/wiki/Pippa_Bacca
+** In [[Pippa]] on 2010-11-11 15:27:09, 404 Not Found
+** In [[Pippa]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Pippa]] on 2010-11-13 02:02:23, 404 Not Found
+** In [[Pippa]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Pippa]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Pippa]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Pippa]] on 2010-11-17 02:01:59, 404 Not Found
+** In [[Pippa]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Pippa]] on 2010-11-19 02:05:17, 404 Not Found
+** In [[Pippa]] on 2010-11-20 02:06:01, 404 Not Found
+* http://www.brisa.pt/Brisa/vPT/Viajar+na+Rede/A+Rede+Brisa/
+** In [[Portugal]] on 2010-11-11 15:27:10, 404 Not Found
+** In [[Portugal]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Portugal]] on 2010-11-13 02:03:02, Socket Error: 'Temporary failure in name resolution'
+** In [[Portugal]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Portugal]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Portugal]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Portugal]] on 2010-11-17 02:01:58, 404 Not Found
+** In [[Portugal]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Portugal]] on 2010-11-19 02:05:18, 404 Not Found
+** In [[Portugal]] on 2010-11-20 02:06:03, 404 Not Found
+* http://www.lcd.org.uk/events/hitch
+** In [[Political hitchhiking]] on 2010-11-11 15:27:10, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-13 02:02:23, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-16 02:02:05, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-17 02:02:00, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-18 02:01:46, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-19 02:05:19, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-20 02:06:06, 404 Not Found
+* http://www.maerkischeallgemeine.de/cms/beitrag/11238673/62249/Zwei_Studenten_kaempfen_fuer_eine_Tramper_Haltestelle_an.html
+** In [[Potsdam]] on 2010-11-11 15:27:10, 404 not found
+** In [[Potsdam]] on 2010-11-12 02:01:58, 404 not found
+** In [[Potsdam]] on 2010-11-13 02:02:23, 404 not found
+** In [[Potsdam]] on 2010-11-14 02:02:14, 404 not found
+** In [[Potsdam]] on 2010-11-15 02:02:05, 404 not found
+** In [[Potsdam]] on 2010-11-16 02:02:04, 404 not found
+** In [[Potsdam]] on 2010-11-17 02:01:58, 404 not found
+** In [[Potsdam]] on 2010-11-18 02:01:44, 404 not found
+** In [[Potsdam]] on 2010-11-19 02:05:19, 404 not found
+** In [[Potsdam]] on 2010-11-20 02:06:07, 404 not found
+* http://hitchgathering.org/users/shaun/
+** In [[6810/Lightfoot]] on 2010-11-11 13:33:53, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-11 15:26:59, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-12 02:02:11, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-14 02:02:24, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-17 02:02:37, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-20 02:06:15, Error: timed out
+* http://hitchgathering.org/users/xo/
+** In [[6810/Lightfoot]] on 2010-11-11 13:33:54, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-11 15:26:56, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-12 02:02:12, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-14 02:02:22, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-17 02:02:37, 403 Forbidden
+** In [[6810/Lightfoot]] on 2010-11-20 02:06:16, Error: timed out
+* http://hitchgathering.org/user/310/contact
+** In [[6810/news]] on 2010-11-11 13:33:54, 403 Forbidden
+** In [[6810/news]] on 2010-11-11 15:26:56, 403 Forbidden
+** In [[6810/news]] on 2010-11-12 02:02:11, 403 Forbidden
+** In [[6810/news]] on 2010-11-13 02:02:03, 403 Forbidden
+** In [[6810/news]] on 2010-11-14 02:02:25, 403 Forbidden
+** In [[6810/news]] on 2010-11-17 02:02:38, 403 Forbidden
+** In [[6810/news]] on 2010-11-20 02:06:20, Error: timed out
+* http://www.parismatch.com/dans-l-oeil-de-match/reportages/le-projet-888-rassemble-les-autostoppeurs-europeens/(gid)/46523
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:11, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:01:58, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-19 02:05:24, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:21, 404 Not Found
+* http://www.hitchwiki.org/en/Video:Robino_Hitchhiking
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:15, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:02:02, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:24, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:09, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:06, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:02:01, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:51, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-19 02:05:27, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:23, 404 Not Found
+* http://hitchgathering.org/users/shaun
+** In [[6810/news]] on 2010-11-11 13:33:55, 403 Forbidden
+** In [[6810/news]] on 2010-11-11 15:26:56, 403 Forbidden
+** In [[6810/news]] on 2010-11-12 02:02:14, 403 Forbidden
+** In [[6810/news]] on 2010-11-14 02:02:22, 403 Forbidden
+** In [[6810/news]] on 2010-11-17 02:02:38, 403 Forbidden
+** In [[6810/news]] on 2010-11-20 02:06:24, 403 Forbidden
+* http://hitchgathering.org/node/add/events
+** In [[6810/news]] on 2010-11-11 15:26:57, 403 Forbidden
+** In [[6810/news]] on 2010-11-12 02:02:18, 403 Forbidden
+** In [[6810/news]] on 2010-11-14 02:02:25, 403 Forbidden
+** In [[6810/news]] on 2010-11-17 02:02:38, 403 Forbidden
+** In [[6810/news]] on 2010-11-19 02:05:38, 403 Forbidden
+** In [[6810/news]] on 2010-11-20 02:06:25, 403 Forbidden
+* http://hitchgathering.org/send-me-flyers/add-me
+** In [[6810/news]] on 2010-11-11 13:33:55, 403 Forbidden
+** In [[6810/news]] on 2010-11-11 15:27:01, 403 Forbidden
+** In [[6810/news]] on 2010-11-12 02:02:14, 403 Forbidden
+** In [[6810/news]] on 2010-11-14 02:02:22, 403 Forbidden
+** In [[6810/news]] on 2010-11-17 02:02:38, 403 Forbidden
+** In [[6810/news]] on 2010-11-20 02:06:30, 403 Forbidden
+* http://meeting.abgefahren-ev.de/
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:11, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-12 02:01:59, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:24, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:14, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:06, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:06, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-17 02:01:58, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:44, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:31, Socket Error: 'Name or service not known'
+* http://www.hitchwiki.org/en/abgefahren
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:17, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:02:03, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:27, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:09, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:08, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:02:02, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:47, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:34, 404 Not Found
+* http://forum.mainroad.org.ua/forum/
+** In [[6810/Evolution]] on 2010-11-11 13:33:17, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-11 15:25:56, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-14 02:01:53, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-17 02:01:40, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-19 11:17:50, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-20 02:01:30, Socket Error: 'Name or service not known'
+** In [[6810/Evolution]] on 2010-11-21 02:01:23, Socket Error: 'Name or service not known'
+* http://www.extreme.ncport.ru/
+** In [[6810/Evolution]] on 2010-11-11 13:33:18, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-14 02:01:54, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-17 02:01:41, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 11:17:55, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-20 02:01:31, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-21 02:01:25, Socket Error: 'Connection refused'
+* http://hitchathering.org/press
+** In [[6810/Press]] on 2010-11-11 13:33:18, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-11 15:25:57, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-12 02:01:39, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-13 02:01:58, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-14 02:01:54, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-15 02:01:47, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-16 02:01:43, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-17 02:01:41, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-18 02:01:25, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-19 02:01:34, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-19 11:17:57, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-20 02:01:31, Socket Error: 'Name or service not known'
+** In [[6810/Press]] on 2010-11-21 02:01:28, Socket Error: 'Name or service not known'
+* http://www.alien.ru/~blast/
+** In [[6810/Evolution]] on 2010-11-11 13:33:19, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-12 02:01:39, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-13 02:01:59, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-14 02:01:55, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-15 02:01:48, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-16 02:01:44, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-17 02:01:42, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-18 02:01:26, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 02:01:36, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 11:18:02, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-20 02:01:32, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-21 02:01:29, 404 Not Found
+* http://www.the789project.com/
+** In [[789]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-11 15:25:59, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 11:18:05, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-20 02:01:35, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-21 02:01:32, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/forum
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:32, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:52, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-21 02:01:35, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/user/register
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:55, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:52, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-21 02:01:35, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/
+** In [[789]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-11 15:25:59, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-19 11:18:05, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-20 02:01:35, Socket Error: 'Temporary failure in name resolution'
+** In [[789]] on 2010-11-21 02:01:32, Socket Error: 'Temporary failure in name resolution'
+* http://the789project.com/
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-21 02:01:36, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/user/register
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:55, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:52, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-21 02:01:35, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.com/forum
+** In [[789/News]] on 2010-11-11 13:33:20, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-12 02:01:40, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-16 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-17 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-18 02:01:32, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-19 02:01:42, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-20 02:01:52, Socket Error: 'Temporary failure in name resolution'
+** In [[789/News]] on 2010-11-21 02:01:35, Socket Error: 'Temporary failure in name resolution'
+* http://the789project.eu
+** In [[789/News]] on 2010-11-11 13:33:21, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-11 15:26:00, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-12 02:01:41, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-13 02:02:00, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-14 02:01:56, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-15 02:01:49, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-16 02:01:45, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-18 02:01:27, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-19 02:01:45, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-20 02:01:53, Socket Error: 'Name or service not known'
+** In [[789/News]] on 2010-11-21 02:01:38, Socket Error: 'Name or service not known'
+* http://the789project.eu/
+** In [[789/Website]] on 2010-11-11 13:33:23, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-11 15:26:03, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-12 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-13 02:02:03, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-14 02:01:57, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-15 02:01:50, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-16 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-18 02:01:28, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-19 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-20 02:01:57, Socket Error: 'Name or service not known'
+** In [[789/Website]] on 2010-11-21 02:01:39, Socket Error: 'Name or service not known'
+* http://www.the789project.eu
+** In [[789/Press]] on 2010-11-11 13:33:22, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-11 15:26:02, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-12 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-13 02:02:02, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-14 02:01:57, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-15 02:01:50, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-16 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-17 02:01:43, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-18 02:01:28, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-19 02:01:47, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-20 02:01:55, Socket Error: 'Name or service not known'
+** In [[789/Press]] on 2010-11-21 02:01:40, Socket Error: 'Name or service not known'
+* http://www.the789project.com
+** In [[789/Website]] on 2010-11-11 13:33:23, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-11 15:26:05, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-12 02:01:43, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-13 02:02:03, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-14 02:01:58, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-15 02:01:50, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-16 02:01:46, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-17 02:01:44, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-18 02:01:28, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-19 02:01:48, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-20 02:02:01, Socket Error: 'Temporary failure in name resolution'
+** In [[789/Website]] on 2010-11-21 02:01:51, Socket Error: 'Temporary failure in name resolution'
+* http://www.mytravelphotos.eu/websites/the789project
+** In [[789/Website]] on 2010-11-11 13:33:24, 404 Not Found
+** In [[789/Website]] on 2010-11-11 15:26:07, 404 Not Found
+** In [[789/Website]] on 2010-11-12 02:01:44, 404 Not Found
+** In [[789/Website]] on 2010-11-13 02:02:04, 404 Not Found
+** In [[789/Website]] on 2010-11-14 02:01:58, 404 Not Found
+** In [[789/Website]] on 2010-11-15 02:01:52, 404 Not Found
+** In [[789/Website]] on 2010-11-16 02:01:48, 404 Not Found
+** In [[789/Website]] on 2010-11-17 02:01:44, 404 Not Found
+** In [[789/Website]] on 2010-11-18 02:01:30, 404 Not Found
+** In [[789/Website]] on 2010-11-19 02:01:49, 404 Not Found
+** In [[789/Website]] on 2010-11-20 02:02:01, 404 Not Found
+** In [[789/Website]] on 2010-11-21 02:01:53, 404 Not Found
+* http://forum.mainroad.org.ua/forum/viewtopic.php?p=35961#35961
+** In [[789/coordination]] on 2010-11-11 15:26:10, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-12 02:01:45, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-13 02:02:06, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-14 02:02:00, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-15 02:01:53, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-16 02:01:49, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-17 02:01:46, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-18 02:01:32, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-19 02:01:51, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-20 02:02:04, Socket Error: 'Name or service not known'
+** In [[789/coordination]] on 2010-11-21 02:01:55, Socket Error: 'Name or service not known'
+* http://www.extreme.ncport.ru/
+** In [[6810/Evolution]] on 2010-11-11 13:33:18, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-12 02:01:38, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-13 02:01:58, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-14 02:01:54, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-15 02:01:47, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-16 02:01:42, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-17 02:01:41, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-18 02:01:25, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 02:01:27, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-19 11:17:55, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-20 02:01:31, Socket Error: 'Connection refused'
+** In [[6810/Evolution]] on 2010-11-21 02:01:25, Socket Error: 'Connection refused'
+* http://abgefahren.hitchbase.com/schwachsinn
+** In [[789/coordination]] on 2010-11-11 15:26:17, 403 Forbidden
+** In [[789/coordination]] on 2010-11-12 02:01:52, 403 Forbidden
+** In [[789/coordination]] on 2010-11-13 02:02:10, 403 Forbidden
+** In [[789/coordination]] on 2010-11-14 02:02:05, 403 Forbidden
+** In [[789/coordination]] on 2010-11-15 02:01:59, 403 Forbidden
+** In [[789/coordination]] on 2010-11-16 02:01:54, 403 Forbidden
+** In [[789/coordination]] on 2010-11-17 02:01:48, 403 Forbidden
+** In [[789/coordination]] on 2010-11-18 02:01:34, 403 Forbidden
+** In [[789/coordination]] on 2010-11-19 02:01:51, 403 Forbidden
+** In [[789/coordination]] on 2010-11-20 02:02:09, 403 Forbidden
+** In [[789/coordination]] on 2010-11-21 02:02:10, 403 Forbidden
+* http://e67.times.lv/Web
+** In [[789/coordination]] on 2010-11-11 15:26:17, 404 Not Found
+** In [[789/coordination]] on 2010-11-12 02:01:47, 404 Not Found
+** In [[789/coordination]] on 2010-11-13 02:02:08, 404 Not Found
+** In [[789/coordination]] on 2010-11-14 02:02:03, 404 Not Found
+** In [[789/coordination]] on 2010-11-15 02:01:55, 404 Not Found
+** In [[789/coordination]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[789/coordination]] on 2010-11-17 02:01:48, 404 Not Found
+** In [[789/coordination]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[789/coordination]] on 2010-11-19 02:01:55, 404 Not Found
+** In [[789/coordination]] on 2010-11-20 02:02:17, 404 Not Found
+** In [[789/coordination]] on 2010-11-21 02:02:14, 404 Not Found
+* http://www.beta.abgefahren-ev.de
+** In [[Abgefahren e.V.]] on 2010-11-11 15:26:19, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-12 02:01:47, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-13 02:02:08, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-14 02:02:03, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-15 02:01:55, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-16 02:01:52, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-17 02:01:48, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-18 02:01:33, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-19 02:01:54, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-20 02:02:19, Socket Error: 'Name or service not known'
+** In [[Abgefahren e.V.]] on 2010-11-21 02:02:16, Socket Error: 'Name or service not known'
+* http://www.alien.ru/~blast/
+** In [[6810/Evolution]] on 2010-11-11 13:33:19, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-11 15:25:57, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-12 02:01:39, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-13 02:01:59, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-14 02:01:55, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-15 02:01:48, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-16 02:01:44, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-17 02:01:42, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-18 02:01:26, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 02:01:36, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-19 11:18:02, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-20 02:01:32, 404 Not Found
+** In [[6810/Evolution]] on 2010-11-21 02:01:29, 404 Not Found
+* http://www.rbb-online.de/_/zibb/beitrag_jsp/key=6569563.html
+** In [[Abgefahren e.V.]] on 2010-11-11 15:26:20, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-13 02:02:08, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-14 02:02:03, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-15 02:01:55, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-16 02:01:53, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-17 02:01:48, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-18 02:01:33, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-19 02:01:58, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-20 02:02:20, 404 Not Found
+** In [[Abgefahren e.V.]] on 2010-11-21 02:02:18, 404 Not Found
+* http://traveloblog.com/trip/ludovic-hubler/asia-afghanistan-kabul-.html
+** In [[Afghanistan]] on 2010-11-11 15:26:23, 404 Not Found
+** In [[Afghanistan]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Afghanistan]] on 2010-11-13 02:02:09, 404 Not Found
+** In [[Afghanistan]] on 2010-11-14 02:02:04, 404 Not Found
+** In [[Afghanistan]] on 2010-11-15 02:01:58, 404 Not Found
+** In [[Afghanistan]] on 2010-11-16 02:01:54, 404 Not Found
+** In [[Afghanistan]] on 2010-11-17 02:01:49, 404 Not Found
+** In [[Afghanistan]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[Afghanistan]] on 2010-11-19 02:02:00, 404 Not Found
+** In [[Afghanistan]] on 2010-11-20 02:02:22, 404 Not Found
+** In [[Afghanistan]] on 2010-11-21 02:02:22, 404 Not Found
+* http://ns.nl/)
+** In [[Amsterdam]] on 2010-11-11 15:26:23, 404 Not Found
+** In [[Amsterdam]] on 2010-11-12 02:01:48, 404 Not Found
+** In [[Amsterdam]] on 2010-11-13 02:02:09, 404 Not Found
+** In [[Amsterdam]] on 2010-11-14 02:02:04, 404 Not Found
+** In [[Amsterdam]] on 2010-11-15 02:01:56, 404 Not Found
+** In [[Amsterdam]] on 2010-11-16 02:01:54, 404 Not Found
+** In [[Amsterdam]] on 2010-11-17 02:01:49, 404 Not Found
+** In [[Amsterdam]] on 2010-11-18 02:01:34, 404 Not Found
+** In [[Amsterdam]] on 2010-11-19 02:02:02, 404 Not Found
+** In [[Amsterdam]] on 2010-11-20 02:02:25, 404 Not Found
+** In [[Amsterdam]] on 2010-11-21 02:02:25, 404 Not Found
+* http://www.fgc.net/accesible/cat/viatjar/s2.htm
+** In [[Barcelona]] on 2010-11-11 15:26:25, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-12 02:01:49, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-13 02:02:09, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-14 02:02:04, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-15 02:01:56, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-16 02:01:55, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-17 02:01:49, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-18 02:01:34, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-19 02:02:04, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-20 02:02:27, 404 Object Not Found
+** In [[Barcelona]] on 2010-11-21 02:02:27, 404 Object Not Found
+* http://www.austlii.edu.au/cgi-bin/disp.pl/au/legis/nsw/consol_reg/rr2008104/s236.html?query=Road%20Rules%202008%20REG%20236
+** In [[Australia]] on 2010-11-11 15:26:28, 400 Bad Request
+** In [[Australia]] on 2010-11-12 02:01:52, 400 Bad Request
+** In [[Australia]] on 2010-11-13 02:02:13, 400 Bad Request
+** In [[Australia]] on 2010-11-14 02:02:07, 400 Bad Request
+** In [[Australia]] on 2010-11-15 02:02:00, 400 Bad Request
+** In [[Australia]] on 2010-11-16 02:01:57, 400 Bad Request
+** In [[Australia]] on 2010-11-17 02:01:53, 400 Bad Request
+** In [[Australia]] on 2010-11-18 02:01:37, 400 Bad Request
+** In [[Australia]] on 2010-11-19 02:02:18, 400 Bad Request
+** In [[Australia]] on 2010-11-20 02:02:34, 400 Bad Request
+** In [[Australia]] on 2010-11-21 02:02:32, 400 Bad Request
+* http://www.moesbooks.com/moes/
+** In [[Bay Area]] on 2010-11-11 15:26:26, 404 Not Found
+** In [[Bay Area]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Bay Area]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Bay Area]] on 2010-11-14 02:02:06, 404 Not Found
+** In [[Bay Area]] on 2010-11-15 02:01:58, 404 Not Found
+** In [[Bay Area]] on 2010-11-16 02:01:56, 404 Not Found
+** In [[Bay Area]] on 2010-11-17 02:01:50, 404 Not Found
+** In [[Bay Area]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Bay Area]] on 2010-11-19 02:02:16, 404 Not Found
+** In [[Bay Area]] on 2010-11-20 02:02:30, 404 Not Found
+** In [[Bay Area]] on 2010-11-21 02:02:35, 404 Not Found
+* http://oucs.blogspot.com/
+** In [[Blogging Hitchhikers]] on 2010-11-11 15:26:32, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-12 02:01:50, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-13 02:02:12, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-14 02:02:06, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-15 02:01:59, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-16 02:01:56, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-17 02:01:51, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-19 02:02:28, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-20 02:02:48, 404 Not Found
+** In [[Blogging Hitchhikers]] on 2010-11-21 02:02:37, 404 Not Found
+=== Blo ===
+* http://lcd.org.uk/
+** In [[Blogging Hitchhikers]] on 2010-11-11 15:26:32, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-12 02:01:50, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-13 02:02:12, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-14 02:02:06, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-15 02:01:59, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-16 02:01:57, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-17 02:01:52, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-18 02:01:36, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-19 02:02:29, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-20 02:02:52, Socket Error: 'Name or service not known'
+** In [[Blogging Hitchhikers]] on 2010-11-21 02:02:39, Socket Error: 'Name or service not known'
+* http://www.bkv.hu/angol/home/index.html
+** In [[Budapest]] on 2010-11-11 15:26:55, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:33, 404 Not Found
+** In [[Budapest]] on 2010-11-20 02:02:54, 404 Not Found
+** In [[Budapest]] on 2010-11-21 02:02:40, 404 Not Found
+* http://www.bkv.hu/english/busz/94gyors.html
+** In [[Budapest]] on 2010-11-11 15:26:59, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+** In [[Budapest]] on 2010-11-20 02:02:56, 404 Not Found
+** In [[Budapest]] on 2010-11-21 02:02:42, 404 Not Found
+* http://www.masspike.com/maps.html
+** In [[Boston]] on 2010-11-11 15:26:33, 404 Not Found
+** In [[Boston]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Boston]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Boston]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Boston]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Boston]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Boston]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Boston]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Boston]] on 2010-11-19 02:02:43, 404 Not Found
+** In [[Boston]] on 2010-11-20 02:03:07, 404 Not Found
+** In [[Boston]] on 2010-11-21 02:02:44, 404 Not Found
+* http://www.bkv.hu/english/troli/74vissza.html
+** In [[Budapest]] on 2010-11-11 15:27:05, Socket Error: 'Connection timed out'
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+** In [[Budapest]] on 2010-11-20 02:02:57, 404 Not Found
+** In [[Budapest]] on 2010-11-21 02:02:47, 404 Not Found
+* http://www.bkv.hu/english/busz/173evissza.html
+** In [[Budapest]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Budapest]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Budapest]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Budapest]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Budapest]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Budapest]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Budapest]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Budapest]] on 2010-11-18 02:01:36, 404 Not Found
+** In [[Budapest]] on 2010-11-19 02:02:39, 404 Not Found
+** In [[Budapest]] on 2010-11-20 02:03:01, 404 Not Found
+** In [[Budapest]] on 2010-11-21 02:02:50, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/categorie/bloginhalt/aethiopien
+** In [[Ethiopia]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Ethiopia]] on 2010-11-12 02:01:53, 404 Not Found
+** In [[Ethiopia]] on 2010-11-13 02:02:14, 404 Not Found
+** In [[Ethiopia]] on 2010-11-14 02:02:09, 404 Not Found
+** In [[Ethiopia]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Ethiopia]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Ethiopia]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Ethiopia]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Ethiopia]] on 2010-11-19 02:02:45, 404 Not Found
+** In [[Ethiopia]] on 2010-11-20 02:03:13, 404 Not Found
+** In [[Ethiopia]] on 2010-11-21 02:02:50, 404 Not Found
+* http://www.couchsurfing.org)
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-11 15:26:43, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-12 02:01:51, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-13 02:02:13, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-14 02:02:07, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-15 02:01:59, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-16 02:01:57, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-17 02:01:52, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-18 02:01:36, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-19 02:02:46, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-20 02:03:19, Socket Error: 'Name or service not known'
+** In [[From Germany to Turkey and back - one month, 200 Euros]] on 2010-11-21 02:02:51, Socket Error: 'Name or service not known'
+* http://www.asa-programm.de/en/aboutasa/partners.html
+** In [[Eurizons]] on 2010-11-11 15:26:42, 404 Not Found
+** In [[Eurizons]] on 2010-11-12 02:01:51, 404 Not Found
+** In [[Eurizons]] on 2010-11-13 02:02:13, 404 Not Found
+** In [[Eurizons]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Eurizons]] on 2010-11-15 02:01:59, 404 Not Found
+** In [[Eurizons]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Eurizons]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Eurizons]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Eurizons]] on 2010-11-19 02:02:48, 404 Not Found
+** In [[Eurizons]] on 2010-11-20 02:03:16, 404 Not Found
+** In [[Eurizons]] on 2010-11-21 02:02:52, 404 Not Found
+* http://www.zsti.gliwice.pl/ptsm/index.html
+** In [[Gliwice]] on 2010-11-11 15:26:44, 404 Not Found
+** In [[Gliwice]] on 2010-11-12 02:01:52, 404 Not Found
+** In [[Gliwice]] on 2010-11-13 02:02:14, 404 Not Found
+** In [[Gliwice]] on 2010-11-14 02:02:07, 404 Not Found
+** In [[Gliwice]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Gliwice]] on 2010-11-16 02:01:57, 404 Not Found
+** In [[Gliwice]] on 2010-11-17 02:01:52, 404 Not Found
+** In [[Gliwice]] on 2010-11-18 02:01:37, 404 Not Found
+** In [[Gliwice]] on 2010-11-19 02:02:51, 404 Not Found
+** In [[Gliwice]] on 2010-11-20 02:03:20, 404 Not Found
+** In [[Gliwice]] on 2010-11-21 02:02:54, 404 Not Found
+* http://horner-kreisel.hitchbase.com/
+** In [[Hamburg]] on 2010-11-11 15:26:45, 403 Forbidden
+** In [[Hamburg]] on 2010-11-12 02:01:51, 403 Forbidden
+** In [[Hamburg]] on 2010-11-13 02:02:14, 403 Forbidden
+** In [[Hamburg]] on 2010-11-14 02:02:07, 403 Forbidden
+** In [[Hamburg]] on 2010-11-15 02:02:00, 403 Forbidden
+** In [[Hamburg]] on 2010-11-16 02:01:57, 403 Forbidden
+** In [[Hamburg]] on 2010-11-17 02:01:52, 403 Forbidden
+** In [[Hamburg]] on 2010-11-18 02:01:37, 403 Forbidden
+** In [[Hamburg]] on 2010-11-19 02:02:48, 403 Forbidden
+** In [[Hamburg]] on 2010-11-20 02:03:24, 403 Forbidden
+** In [[Hamburg]] on 2010-11-21 02:02:58, 403 Forbidden
+* http://horner-kreisel.hitchbase.com/
+** In [[Hamburg]] on 2010-11-11 15:26:45, 403 Forbidden
+** In [[Hamburg]] on 2010-11-12 02:01:51, 403 Forbidden
+** In [[Hamburg]] on 2010-11-13 02:02:14, 403 Forbidden
+** In [[Hamburg]] on 2010-11-14 02:02:07, 403 Forbidden
+** In [[Hamburg]] on 2010-11-15 02:02:00, 403 Forbidden
+** In [[Hamburg]] on 2010-11-16 02:01:57, 403 Forbidden
+** In [[Hamburg]] on 2010-11-17 02:01:52, 403 Forbidden
+** In [[Hamburg]] on 2010-11-18 02:01:37, 403 Forbidden
+** In [[Hamburg]] on 2010-11-19 02:02:48, 403 Forbidden
+** In [[Hamburg]] on 2010-11-20 02:03:24, 403 Forbidden
+** In [[Hamburg]] on 2010-11-21 02:02:58, 403 Forbidden
+* http://hitchwiki.org/en/Abgefahren_e.V
+** In [[Hitchhiking clubs]] on 2010-11-11 15:26:50, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-13 02:02:15, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-15 02:02:01, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-16 02:01:59, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-17 02:01:53, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-18 02:01:38, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-19 02:03:03, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-20 02:03:30, 404 Not Found
+** In [[Hitchhiking clubs]] on 2010-11-21 02:03:10, 404 Not Found
+* http://www.no-comment.dk/index_paris.html
+** In [[Hitchhiking in movies]] on 2010-11-11 15:26:50, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-12 02:01:52, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-13 02:02:15, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-14 02:02:08, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-15 02:02:00, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-16 02:01:59, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-17 02:01:54, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-18 02:01:38, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-19 02:03:05, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-20 02:03:32, 404 Not Found
+** In [[Hitchhiking in movies]] on 2010-11-21 02:03:12, 404 Not Found
+* http://web.archive.org/web/20030625221556/http://www.mastery.net/travel/hitch.htm|Key
+** In [[Hitchhiking World Records]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-19 02:03:39, Socket Error: 'Connection timed out'
+** In [[Hitchhiking World Records]] on 2010-11-20 02:03:28, 404 Not Found
+** In [[Hitchhiking World Records]] on 2010-11-21 02:03:15, 404 Not Found
+* http://www.race2amsterdam.co.uk/
+** In [[Hitchhiking races]] on 2010-11-11 15:26:51, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-13 02:02:16, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-15 02:02:01, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-16 02:01:59, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-18 02:01:38, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-19 02:03:06, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-20 02:03:35, Socket Error: 'Name or service not known'
+** In [[Hitchhiking races]] on 2010-11-21 02:03:22, Socket Error: 'Name or service not known'
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-journey-eid-christmas
+** In [[Iran]] on 2010-11-11 15:26:57, 404 Not Found
+** In [[Iran]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Iran]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Iran]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Iran]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Iran]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Iran]] on 2010-11-17 02:01:54, 404 Not Found
+** In [[Iran]] on 2010-11-18 02:01:39, 404 Not Found
+** In [[Iran]] on 2010-11-19 02:03:07, 404 Not Found
+** In [[Iran]] on 2010-11-20 02:03:36, 404 Not Found
+** In [[Iran]] on 2010-11-21 02:03:23, 404 Not Found
+* http://www.lcd.org.uk/events/hitch/
+** In [[Hitchhiking races]] on 2010-11-11 15:26:52, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-18 02:01:43, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-19 02:03:12, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-20 02:03:41, 404 Not Found
+** In [[Hitchhiking races]] on 2010-11-21 02:03:24, 404 Not Found
+* http://www.j-sapa.or.jp/
+** In [[Japan]] on 2010-11-11 15:26:56, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-13 02:02:16, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-15 02:02:01, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-16 02:01:59, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-18 02:01:39, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-19 02:03:08, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-20 02:03:37, Socket Error: 'Name or service not known'
+** In [[Japan]] on 2010-11-21 02:03:26, Socket Error: 'Name or service not known'
+* http://www.vihreahaltijatar.fi/
+** In [[Jyväskylä]] on 2010-11-11 15:26:57, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-12 02:01:53, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-13 02:02:17, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-14 02:02:09, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-15 02:02:02, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-16 02:02:00, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-17 02:01:54, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-18 02:01:39, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-19 02:03:17, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-20 02:03:51, Socket Error: 'Name or service not known'
+** In [[Jyväskylä]] on 2010-11-21 02:03:27, Socket Error: 'Name or service not known'
+* http://www.jyvaskyla.fi/tiedotus/human_tech_city/index.php/2005-02
+** In [[Jyväskylä]] on 2010-11-11 15:26:57, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-19 02:03:27, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-20 02:03:53, 404 Not Found
+** In [[Jyväskylä]] on 2010-11-21 02:03:32, 404 Not Found
+* http://www.lapland.fi/frontpage
+** In [[Lapland (Finland)]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-13 02:02:18, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-19 02:03:27, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-20 02:03:58, 404 Not Found
+** In [[Lapland (Finland)]] on 2010-11-21 02:03:36, 404 Not Found
+* http://www.traversiers.gouv.qc.ca/trav/quebec/index.asp
+** In [[Levis]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Levis]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Levis]] on 2010-11-13 02:02:18, 404 Not Found
+** In [[Levis]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Levis]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Levis]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Levis]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Levis]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Levis]] on 2010-11-19 02:03:31, 404 Not Found
+** In [[Levis]] on 2010-11-20 02:04:02, 404 Not Found
+** In [[Levis]] on 2010-11-21 02:03:38, 404 Not Found
+* http://wiki.mega2000.de/moin.cgi/LiftersHalte
+** In [[Liftershalte.info]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-13 02:02:17, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-16 02:02:00, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-19 02:03:34, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-20 02:04:09, 404 Not Found
+** In [[Liftershalte.info]] on 2010-11-21 02:03:49, 404 Not Found
+* http://www.brisa.pt/BRISA/vPT/Viajar+na+Rede/Transito+Online/?tipo=estrada&idae=1
+** In [[Lisbon]] on 2010-11-11 15:26:58, 404 Not Found
+** In [[Lisbon]] on 2010-11-12 02:01:54, 404 Not Found
+** In [[Lisbon]] on 2010-11-13 02:02:57, Socket Error: 'Temporary failure in name resolution'
+** In [[Lisbon]] on 2010-11-14 02:02:10, 404 Not Found
+** In [[Lisbon]] on 2010-11-15 02:02:02, 404 Not Found
+** In [[Lisbon]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Lisbon]] on 2010-11-17 02:01:55, 404 Not Found
+** In [[Lisbon]] on 2010-11-18 02:01:40, 404 Not Found
+** In [[Lisbon]] on 2010-11-19 02:03:42, 404 Not Found
+** In [[Lisbon]] on 2010-11-20 02:04:13, 404 Not Found
+** In [[Lisbon]] on 2010-11-21 02:03:53, 404 Not Found
+* http://www.relais.ucl.ac.be/
+** In [[Louvain-la-Neuve]] on 2010-11-11 15:27:00, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-12 02:01:54, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-13 02:02:19, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-14 02:02:11, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-15 02:02:03, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-16 02:02:01, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-17 02:01:56, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-18 02:01:41, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-19 02:03:45, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-20 02:04:14, 403 Forbidden
+** In [[Louvain-la-Neuve]] on 2010-11-21 02:03:56, 403 Forbidden
+* http://www.traveline.org.uk/index.htm)
+** In [[Manchester]] on 2010-11-11 15:27:01, 404 Not Found
+** In [[Manchester]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Manchester]] on 2010-11-13 02:02:19, 404 Not Found
+** In [[Manchester]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Manchester]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Manchester]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Manchester]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Manchester]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Manchester]] on 2010-11-19 02:03:48, 404 Not Found
+** In [[Manchester]] on 2010-11-20 02:04:16, 404 Not Found
+** In [[Manchester]] on 2010-11-21 02:04:02, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-a-journey-eid-christmas
+** In [[Middle East]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Middle East]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Middle East]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Middle East]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Middle East]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Middle East]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Middle East]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Middle East]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[Middle East]] on 2010-11-19 02:03:49, 404 Not Found
+** In [[Middle East]] on 2010-11-20 02:04:21, 404 Not Found
+** In [[Middle East]] on 2010-11-21 02:04:03, 404 Not Found
+* http://abgefahren.hitchbase.com/DE/blogs/alex/20090213/just-hitching-rides-a-journey-eid-christmas
+** In [[Middle East]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Middle East]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Middle East]] on 2010-11-13 02:02:20, 404 Not Found
+** In [[Middle East]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Middle East]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Middle East]] on 2010-11-16 02:02:02, 404 Not Found
+** In [[Middle East]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Middle East]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[Middle East]] on 2010-11-19 02:03:49, 404 Not Found
+** In [[Middle East]] on 2010-11-20 02:04:21, 404 Not Found
+** In [[Middle East]] on 2010-11-21 02:04:03, 404 Not Found
+* http://mkvrt.hu
+** In [[Miskolc]] on 2010-11-11 15:27:03, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-12 02:01:55, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-13 02:02:19, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-14 02:02:11, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-15 02:02:03, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-16 02:02:01, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-17 02:01:56, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-18 02:01:41, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-19 02:03:50, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-20 02:04:26, Socket Error: 'Name or service not known'
+** In [[Miskolc]] on 2010-11-21 02:04:04, Socket Error: 'Name or service not known'
+=== Mun ===
+* http://www.autobahnatlas-online.de/A99.htm)
+** In [[Munich]] on 2010-11-11 15:27:04, 404 Not Found
+** In [[Munich]] on 2010-11-12 02:01:55, 404 Not Found
+** In [[Munich]] on 2010-11-13 02:02:19, 404 Not Found
+** In [[Munich]] on 2010-11-14 02:02:11, 404 Not Found
+** In [[Munich]] on 2010-11-15 02:02:03, 404 Not Found
+** In [[Munich]] on 2010-11-16 02:02:01, 404 Not Found
+** In [[Munich]] on 2010-11-17 02:01:56, 404 Not Found
+** In [[Munich]] on 2010-11-18 02:01:41, 404 Not Found
+** In [[Munich]] on 2010-11-19 02:04:00, 404 Not Found
+** In [[Munich]] on 2010-11-20 02:04:27, 404 Not Found
+** In [[Munich]] on 2010-11-21 02:04:05, 404 Not Found
+* http://www.volunteerconnection.net/why/VCfaq.html|a
+** In [[North America Hitch Gathering]] on 2010-11-11 15:27:06, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-12 02:01:56, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-14 02:02:12, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-16 02:02:03, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-18 02:01:42, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-19 02:04:03, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-20 02:04:57, 404 Not Found
+** In [[North America Hitch Gathering]] on 2010-11-21 02:04:07, 404 Not Found
+* http://www.couchsurfing.com/people/garthelgard
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:13, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:02:00, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:26, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:15, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:08, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:08, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:02:00, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:47, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:37, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-21 02:04:10, 404 Not Found
+* http://www.rahhala.net/en/
+** In [[Online Resources]] on 2010-11-11 15:27:46, 404 Not Found
+** In [[Online Resources]] on 2010-11-12 02:01:56, 404 Not Found
+** In [[Online Resources]] on 2010-11-13 02:02:21, 404 Not Found
+** In [[Online Resources]] on 2010-11-14 02:02:13, 404 Not Found
+** In [[Online Resources]] on 2010-11-15 02:02:04, 404 Not Found
+** In [[Online Resources]] on 2010-11-16 02:02:03, 404 Not Found
+** In [[Online Resources]] on 2010-11-17 02:01:57, 404 Not Found
+** In [[Online Resources]] on 2010-11-18 02:01:43, 404 Not Found
+** In [[Online Resources]] on 2010-11-19 02:04:36, 404 Not Found
+** In [[Online Resources]] on 2010-11-20 02:05:48, 404 Not Found
+** In [[Online Resources]] on 2010-11-21 02:04:11, 404 Not Found
+* http://robingallup.com/2008/10/14/hitchhikers/
+** In [[Picking up hitchhikers]] on 2010-11-11 15:27:09, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-12 02:01:57, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-16 02:02:24, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-17 02:02:18, Socket Error: 'Connection timed out'
+** In [[Picking up hitchhikers]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-19 02:04:40, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-20 02:05:51, 404 Not Found
+** In [[Picking up hitchhikers]] on 2010-11-21 02:04:13, 404 Not Found
+* http://www.crossculturedtraveler.com/archives/JUN2002/Lead_Story.htm
+** In [[Pierre Trudeau]] on 2010-11-11 15:27:09, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-12 02:01:57, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-13 02:02:22, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-14 02:02:13, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-15 02:02:05, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-16 02:02:04, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-17 02:01:58, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-18 02:01:43, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-19 02:05:07, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-20 02:05:56, Socket Error: 'Temporary failure in name resolution'
+** In [[Pierre Trudeau]] on 2010-11-21 02:04:14, Socket Error: 'Temporary failure in name resolution'
+* http://www.todayszaman.com/tz-web/detaylar.do?load=detay&link=155284&bolum=101
+** In [[Pippa]] on 2010-11-11 15:27:08, 404 /tz-web/detaylar.do
+** In [[Pippa]] on 2010-11-12 02:01:57, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-13 02:02:22, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-14 02:02:14, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-15 02:02:05, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-16 02:02:04, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-17 02:01:58, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-18 02:01:44, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-19 02:05:08, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-20 02:05:57, 404 /detaylar.do
+** In [[Pippa]] on 2010-11-21 02:04:16, 404 /detaylar.do
+* http://en.wikipedia.org/wiki/Pippa_Bacca
+** In [[Pippa]] on 2010-11-11 15:27:09, 404 Not Found
+** In [[Pippa]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Pippa]] on 2010-11-13 02:02:23, 404 Not Found
+** In [[Pippa]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Pippa]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Pippa]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Pippa]] on 2010-11-17 02:01:59, 404 Not Found
+** In [[Pippa]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Pippa]] on 2010-11-19 02:05:17, 404 Not Found
+** In [[Pippa]] on 2010-11-20 02:06:01, 404 Not Found
+** In [[Pippa]] on 2010-11-21 02:04:19, 404 Not Found
+* http://freegan.org.uk/
+** In [[London]] on 2010-11-11 15:27:20, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-12 02:02:15, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-13 02:02:40, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-14 02:02:31, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-15 02:02:24, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-16 02:02:22, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-17 02:02:16, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-18 02:02:02, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-19 02:04:06, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-20 02:04:35, Socket Error: 'Temporary failure in name resolution'
+** In [[London]] on 2010-11-21 02:04:20, Socket Error: 'Temporary failure in name resolution'
+* http://www.brisa.pt/Brisa/vPT/Viajar+na+Rede/A+Rede+Brisa/
+** In [[Portugal]] on 2010-11-11 15:27:10, 404 Not Found
+** In [[Portugal]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Portugal]] on 2010-11-13 02:03:02, Socket Error: 'Temporary failure in name resolution'
+** In [[Portugal]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Portugal]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Portugal]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Portugal]] on 2010-11-17 02:01:58, 404 Not Found
+** In [[Portugal]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Portugal]] on 2010-11-19 02:05:18, 404 Not Found
+** In [[Portugal]] on 2010-11-20 02:06:03, 404 Not Found
+** In [[Portugal]] on 2010-11-21 02:04:41, 404 Not Found
+* http://www.lcd.org.uk/events/hitch
+** In [[Political hitchhiking]] on 2010-11-11 15:27:10, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-13 02:02:23, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-15 02:02:06, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-16 02:02:05, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-17 02:02:00, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-18 02:01:46, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-19 02:05:19, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-20 02:06:06, 404 Not Found
+** In [[Political hitchhiking]] on 2010-11-21 02:04:41, 404 Not Found
+* http://www.maerkischeallgemeine.de/cms/beitrag/11238673/62249/Zwei_Studenten_kaempfen_fuer_eine_Tramper_Haltestelle_an.html
+** In [[Potsdam]] on 2010-11-11 15:27:10, 404 not found
+** In [[Potsdam]] on 2010-11-12 02:01:58, 404 not found
+** In [[Potsdam]] on 2010-11-13 02:02:23, 404 not found
+** In [[Potsdam]] on 2010-11-14 02:02:14, 404 not found
+** In [[Potsdam]] on 2010-11-15 02:02:05, 404 not found
+** In [[Potsdam]] on 2010-11-16 02:02:04, 404 not found
+** In [[Potsdam]] on 2010-11-17 02:01:58, 404 not found
+** In [[Potsdam]] on 2010-11-18 02:01:44, 404 not found
+** In [[Potsdam]] on 2010-11-19 02:05:19, 404 not found
+** In [[Potsdam]] on 2010-11-20 02:06:07, 404 not found
+** In [[Potsdam]] on 2010-11-21 02:04:42, 404 not found
+* http://www.parismatch.com/dans-l-oeil-de-match/reportages/le-projet-888-rassemble-les-autostoppeurs-europeens/(gid)/46523
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:11, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:01:58, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:22, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:14, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:05, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:04, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:01:58, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:44, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-19 02:05:24, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:21, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-21 02:04:44, 404 Not Found
+* http://www.hitchwiki.org/en/Video:Robino_Hitchhiking
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:15, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:02:02, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:24, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:09, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:06, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:02:01, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:51, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-19 02:05:27, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:23, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-21 02:04:46, 404 Not Found
+* http://www.hitchwiki.org/en/abgefahren
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:17, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:02:03, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:27, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:09, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:08, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:02:02, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:47, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:34, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-21 02:04:51, 404 Not Found
+* http://meeting.abgefahren-ev.de/
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:11, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-12 02:01:59, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:24, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:14, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:06, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:06, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-17 02:01:58, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:44, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:31, Socket Error: 'Name or service not known'
+** In [[Project 888/Newsletter]] on 2010-11-21 02:04:57, Socket Error: 'Name or service not known'
+* http://www.couchsurfing.com/people/garthelgard
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:13, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:02:00, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:26, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:15, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:08, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:08, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:02:00, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:47, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:37, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-21 02:04:10, 404 Not Found
+* http://www.butterflyvalley.com
+** In [[Kelebekler Vadisi]] on 2010-11-11 15:27:58, HTTP Error: BadStatusLine
+** In [[Kelebekler Vadisi]] on 2010-11-19 02:04:41, HTTP Error: BadStatusLine
+** In [[Kelebekler Vadisi]] on 2010-11-20 02:05:00, HTTP Error: BadStatusLine
+** In [[Kelebekler Vadisi]] on 2010-11-21 02:04:58, HTTP Error: BadStatusLine
+* http://888.dyndns.info/888/index.php?where=register
+** In [[Project 888/Cities]] on 2010-11-11 15:27:31, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-12 02:02:18, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-13 02:02:43, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-14 02:02:35, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-15 02:02:27, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-16 02:02:25, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-17 02:02:19, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-18 02:02:05, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-21 02:05:26, Socket Error: 'Connection timed out'
+* http://www.couchsurfing.com/people/martinboserup
+** In [[Project 888/Sign Up Page]] on 2010-11-11 15:27:14, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-12 02:02:04, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-13 02:02:28, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-14 02:02:16, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-15 02:02:09, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-16 02:02:09, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-17 02:02:01, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-18 02:01:49, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-21 02:05:48, 404 Not Found
+* http://888.dyndns.info/888/index.php?where=register
+** In [[Project 888/Cities]] on 2010-11-11 15:27:31, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-12 02:02:18, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-13 02:02:43, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-14 02:02:35, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-15 02:02:27, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-16 02:02:25, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-17 02:02:19, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-18 02:02:05, Socket Error: 'Connection timed out'
+** In [[Project 888/Cities]] on 2010-11-21 02:05:26, Socket Error: 'Connection timed out'
+* http://www.couchsurfing.com/people/krais
+** In [[Project 888/Sign Up Page]] on 2010-11-11 15:27:18, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-12 02:02:05, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-13 02:02:32, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-14 02:02:18, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-15 02:02:12, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-16 02:02:13, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-17 02:02:05, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-18 02:01:52, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-21 02:05:54, 404 Not Found
+* http://www.couchsurfing.com/people/silva74
+** In [[Project 888/Sign Up Page]] on 2010-11-11 15:27:19, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-12 02:02:06, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-13 02:02:34, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-14 02:02:24, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-15 02:02:13, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-16 02:02:20, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-17 02:02:06, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-18 02:01:53, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-21 02:05:59, 404 Not Found
+* http://www.couchsurfing.com/people/larisskart
+** In [[Project 888/Sign Up Page]] on 2010-11-11 15:27:20, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-12 02:02:06, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-13 02:02:35, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-14 02:02:20, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-15 02:02:14, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-16 02:02:16, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-17 02:02:06, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-18 02:01:54, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-21 02:06:01, 404 Not Found
+* http://www.couchsurfing.com/people/wtvisser
+** In [[Project 888/Sign Up Page]] on 2010-11-11 15:27:20, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-12 02:02:06, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-13 02:02:35, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-14 02:02:20, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-15 02:02:14, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-16 02:02:16, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-17 02:02:07, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-18 02:01:54, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-21 02:06:02, 404 Not Found
+* http://www.couchsurfing.com/people/garthelgard
+** In [[Project 888/Newsletter]] on 2010-11-11 15:27:13, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-12 02:02:00, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-13 02:02:26, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-14 02:02:15, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-15 02:02:08, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-16 02:02:08, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-17 02:02:00, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-18 02:01:47, 404 Not Found
+** In [[Project 888/Newsletter]] on 2010-11-20 02:06:37, 404 Not Found
+** In [[Project 888/Sign Up Page]] on 2010-11-21 02:04:10, 404 Not Found
+* http://abgefahren.hitchbase.com/node/376
+** In [[One page guide to safe hitchhiking]] on 2010-11-11 15:27:06, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-12 02:02:00, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-13 02:02:20, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-14 02:02:14, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-15 02:02:04, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-16 02:02:02, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-17 02:01:56, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-18 02:01:42, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-19 02:04:05, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-20 02:05:22, 403 Forbidden
+** In [[One page guide to safe hitchhiking]] on 2010-11-21 02:06:15, 403 Forbidden
+* https://www.stadtwerke-reutlingen.de/rsv/bilder/pdfs/Liniennetzplan1.pdf
+** In [[Reutlingen]] on 2010-11-11 15:27:21, 404 Not Found
+** In [[Reutlingen]] on 2010-11-12 02:02:07, 404 Not Found
+** In [[Reutlingen]] on 2010-11-13 02:02:37, 404 Not Found
+** In [[Reutlingen]] on 2010-11-14 02:02:20, 404 Not Found
+** In [[Reutlingen]] on 2010-11-15 02:02:14, 404 Not Found
+** In [[Reutlingen]] on 2010-11-16 02:02:17, 404 Not Found
+** In [[Reutlingen]] on 2010-11-17 02:02:07, 404 Not Found
+** In [[Reutlingen]] on 2010-11-18 02:01:54, 404 Not Found
+** In [[Reutlingen]] on 2010-11-21 02:06:19, 404 Not Found

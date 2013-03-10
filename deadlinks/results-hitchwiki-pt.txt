@@ -1,0 +1,76 @@
+* http://http://www.ptla.cl/
+** In [[Chile]] on 2010-11-11 15:31:18, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-12 02:06:37, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-13 02:06:44, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-14 02:07:19, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-15 02:06:03, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-16 02:07:19, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-17 02:06:47, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-18 02:05:27, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-19 02:10:45, HTTP Error: InvalidURL
+* http://www.couchsurfing.com/people/mxnnx
+** In [[Dicas boas]] on 2010-11-11 15:31:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-12 02:06:38, 404 Not Found
+** In [[Dicas boas]] on 2010-11-13 02:06:45, 404 Not Found
+** In [[Dicas boas]] on 2010-11-14 02:07:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-15 02:06:04, 404 Not Found
+** In [[Dicas boas]] on 2010-11-16 02:07:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-17 02:06:48, 404 Not Found
+** In [[Dicas boas]] on 2010-11-18 02:05:28, 404 Not Found
+** In [[Dicas boas]] on 2010-11-19 02:10:46, 404 Not Found
+* http://www.autostopargentina.com.ar/inicio.php
+** In [[Argentina]] on 2010-11-11 15:31:19, 404 Not Found
+** In [[Argentina]] on 2010-11-12 02:06:38, 404 Not Found
+** In [[Argentina]] on 2010-11-13 02:06:45, 404 Not Found
+** In [[Argentina]] on 2010-11-14 02:07:20, 404 Not Found
+** In [[Argentina]] on 2010-11-15 02:06:04, 404 Not Found
+** In [[Argentina]] on 2010-11-16 02:07:20, 404 Not Found
+** In [[Argentina]] on 2010-11-17 02:06:48, 404 Not Found
+** In [[Argentina]] on 2010-11-18 02:05:28, 404 Not Found
+** In [[Argentina]] on 2010-11-19 02:10:46, 404 Not Found
+* http://http://www.ptla.cl/
+** In [[Chile]] on 2010-11-11 15:31:18, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-12 02:06:37, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-13 02:06:44, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-14 02:07:19, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-15 02:06:03, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-16 02:07:19, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-17 02:06:47, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-18 02:05:27, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-19 02:10:45, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-20 02:11:40, HTTP Error: InvalidURL
+* http://www.couchsurfing.com/people/mxnnx
+** In [[Dicas boas]] on 2010-11-11 15:31:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-12 02:06:38, 404 Not Found
+** In [[Dicas boas]] on 2010-11-13 02:06:45, 404 Not Found
+** In [[Dicas boas]] on 2010-11-14 02:07:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-15 02:06:04, 404 Not Found
+** In [[Dicas boas]] on 2010-11-16 02:07:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-17 02:06:48, 404 Not Found
+** In [[Dicas boas]] on 2010-11-18 02:05:28, 404 Not Found
+** In [[Dicas boas]] on 2010-11-19 02:10:46, 404 Not Found
+** In [[Dicas boas]] on 2010-11-20 02:11:41, 404 Not Found
+* http://http://www.ptla.cl/
+** In [[Chile]] on 2010-11-11 15:31:18, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-12 02:06:37, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-13 02:06:44, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-14 02:07:19, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-15 02:06:03, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-16 02:07:19, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-17 02:06:47, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-18 02:05:27, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-19 02:10:45, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-20 02:11:40, HTTP Error: InvalidURL
+** In [[Chile]] on 2010-11-21 02:10:58, HTTP Error: InvalidURL
+* http://www.couchsurfing.com/people/mxnnx
+** In [[Dicas boas]] on 2010-11-11 15:31:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-12 02:06:38, 404 Not Found
+** In [[Dicas boas]] on 2010-11-13 02:06:45, 404 Not Found
+** In [[Dicas boas]] on 2010-11-14 02:07:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-15 02:06:04, 404 Not Found
+** In [[Dicas boas]] on 2010-11-16 02:07:20, 404 Not Found
+** In [[Dicas boas]] on 2010-11-17 02:06:48, 404 Not Found
+** In [[Dicas boas]] on 2010-11-18 02:05:28, 404 Not Found
+** In [[Dicas boas]] on 2010-11-19 02:10:46, 404 Not Found
+** In [[Dicas boas]] on 2010-11-20 02:11:41, 404 Not Found
+** In [[Dicas boas]] on 2010-11-21 02:10:59, 404 Not Found

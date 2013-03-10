@@ -1,0 +1,635 @@
+(dp0
+Vhttp://www.tampere.fi/tapahtumat/
+p1
+(lp2
+(VTampere
+p3
+F1289489369.5951321
+S'404 Not Found'
+p4
+tp5
+a(VTampere
+p6
+F1289527438.625253
+S'404 Not Found'
+p7
+tp8
+a(VTampere
+p9
+F1289613884.269613
+S'404 Not Found'
+p10
+tp11
+a(VTampere
+p12
+F1289700253.37572
+S'404 Not Found'
+p13
+tp14
+a(VTampere
+p15
+F1289786640.3127439
+S'404 Not Found'
+p16
+tp17
+a(VTampere
+p18
+F1289873097.7828331
+S'404 Not Found'
+p19
+tp20
+a(VTampere
+p21
+F1289959473.734273
+S'404 Not Found'
+p22
+tp23
+a(VTampere
+p24
+F1290045819.7106121
+S'404 Not Found'
+p25
+tp26
+a(VTampere
+p27
+F1290132525.378721
+S'404 Not Found'
+p28
+tp29
+a(VTampere
+p30
+F1290218981.458786
+S'404 Not Found'
+p31
+tp32
+asVhttp://www.halti.fi/dynamic/1/productdetail/9/1/15/4616.html
+p33
+(lp34
+(VPakkaaminen
+p35
+F1289489369.7662511
+S'404 Not Found'
+p36
+tp37
+a(VPakkaaminen
+p38
+F1289527441.7237141
+S'404 Not Found'
+p39
+tp40
+a(VPakkaaminen
+p41
+F1289613884.3596931
+S'404 Not Found'
+p42
+tp43
+a(VPakkaaminen
+p44
+F1289700253.281527
+S'404 Not Found'
+p45
+tp46
+a(VPakkaaminen
+p47
+F1289786640.391124
+S'404 Not Found'
+p48
+tp49
+a(VPakkaaminen
+p50
+F1289873097.887749
+S'404 Not Found'
+p51
+tp52
+a(VPakkaaminen
+p53
+F1289959473.7811911
+S'404 Not Found'
+p54
+tp55
+a(VPakkaaminen
+p56
+F1290045819.9230709
+S'404 Not Found'
+p57
+tp58
+a(VPakkaaminen
+p59
+F1290132528.379287
+S'404 Not Found'
+p60
+tp61
+asVhttp://wiki.rihmasto.fi/index.php?title=Peukalokyyti
+p62
+(lp63
+(VSisällön luovutuslista
+p64
+F1289489369.1179221
+VSocket Error: 'Name or service not known'
+p65
+tp66
+a(VSisällön luovutuslista
+p67
+F1289527463.4830761
+VSocket Error: 'Temporary failure in name resolution'
+p68
+tp69
+a(VSisällön luovutuslista
+p70
+F1289613883.700794
+VSocket Error: 'Name or service not known'
+p71
+tp72
+a(VSisällön luovutuslista
+p73
+F1289700252.7821391
+VSocket Error: 'Name or service not known'
+p74
+tp75
+a(VSisällön luovutuslista
+p76
+F1289786639.8128779
+VSocket Error: 'Name or service not known'
+p77
+tp78
+a(VSisällön luovutuslista
+p79
+F1289873097.3352549
+VSocket Error: 'Name or service not known'
+p80
+tp81
+a(VSisällön luovutuslista
+p82
+F1289959473.1561
+VSocket Error: 'Name or service not known'
+p83
+tp84
+a(VSisällön luovutuslista
+p85
+F1290045819.222544
+VSocket Error: 'Name or service not known'
+p86
+tp87
+a(VSisällön luovutuslista
+p88
+F1290132520.903728
+VSocket Error: 'Name or service not known'
+p89
+tp90
+a(VSisällön luovutuslista
+p91
+F1290218958.8548529
+VSocket Error: 'Name or service not known'
+p92
+tp93
+a(VSisällön luovutuslista
+p94
+F1290305349.521086
+VSocket Error: 'Name or service not known'
+p95
+tp96
+asVhttp://www.oyy.fi/fileadmin/Ylkkari/oy_20080116_nettilehti.pdf
+p97
+(lp98
+(VLinkit
+p99
+F1289489369.4726491
+S'404 Not Found'
+p100
+tp101
+a(VLinkit
+p102
+F1289527438.4884911
+S'404 Not Found'
+p103
+tp104
+a(VLinkit
+p105
+F1289613884.226315
+S'404 Not Found'
+p106
+tp107
+a(VLinkit
+p108
+F1289700253.136375
+S'404 Not Found'
+p109
+tp110
+a(VLinkit
+p111
+F1289786640.22525
+S'404 Not Found'
+p112
+tp113
+a(VLinkit
+p114
+F1289873097.782506
+S'404 Not Found'
+p115
+tp116
+a(VLinkit
+p117
+F1289959473.522094
+S'404 Not Found'
+p118
+tp119
+a(VLinkit
+p120
+F1290045819.66679
+S'404 Not Found'
+p121
+tp122
+a(VLinkit
+p123
+F1290132523.7405181
+S'404 Not Found'
+p124
+tp125
+a(VLinkit
+p126
+F1290305358.6716831
+S'404 Not Found'
+p127
+tp128
+asVhttp://www.ytv.fi/
+p129
+(lp130
+(VHelsinki
+p131
+F1289489368.0818341
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p132
+tp133
+a(VHelsinki
+p134
+F1289527437.952081
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p135
+tp136
+a(VHelsinki
+p137
+F1289613883.623564
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p138
+tp139
+a(VHelsinki
+p140
+F1289700252.6652739
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p141
+tp142
+a(VHelsinki
+p143
+F1289786639.6271069
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p144
+tp145
+a(VHelsinki
+p146
+F1289873097.1855531
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p147
+tp148
+a(VHelsinki
+p149
+F1289959472.964025
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p150
+tp151
+a(VHelsinki
+p152
+F1290045819.1725149
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p153
+tp154
+a(VHelsinki
+p155
+F1290132518.6147931
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p156
+tp157
+a(VHelsinki
+p158
+F1290218953.6979461
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p159
+tp160
+a(VHelsinki
+p161
+F1290305333.8908679
+VHTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+p162
+tp163
+asVhttp://www.stranded.to/phpbb/
+p164
+(lp165
+(g99
+F1289489369.3751979
+S'404 Not Found'
+p166
+tp167
+a(g102
+F1289527438.7739849
+S'404 Not Found'
+p168
+tp169
+a(g105
+F1289613883.987838
+S'404 Not Found'
+p170
+tp171
+a(g108
+F1289700253.3627529
+S'404 Not Found'
+p172
+tp173
+a(g111
+F1289786640.948566
+S'404 Not Found'
+p174
+tp175
+a(g114
+F1289873097.709096
+S'404 Not Found'
+p176
+tp177
+a(g117
+F1289959474.2818379
+S'404 Not Found'
+p178
+tp179
+a(g120
+F1290045819.54599
+S'404 Not Found'
+p180
+tp181
+a(g123
+F1290132522.930059
+S'404 Not Found'
+p182
+tp183
+a(VLinkit
+p184
+F1290218963.259702
+S'404 Not Found'
+p185
+tp186
+a(g126
+F1290305355.1858201
+S'404 Not Found'
+p187
+tp188
+asVhttp://www.hitchhiking.lv
+p189
+(lp190
+(g99
+F1289489368.508805
+VSocket Error: 'Name or service not known'
+p191
+tp192
+a(g102
+F1289527437.8461571
+VSocket Error: 'Name or service not known'
+p193
+tp194
+a(g105
+F1289613883.5229399
+VSocket Error: 'Name or service not known'
+p195
+tp196
+a(g108
+F1289700252.5418949
+VSocket Error: 'Name or service not known'
+p197
+tp198
+a(g111
+F1289786639.5295
+VSocket Error: 'Name or service not known'
+p199
+tp200
+a(g114
+F1289873097.0264111
+VSocket Error: 'Name or service not known'
+p201
+tp202
+a(g117
+F1289959472.9648221
+VSocket Error: 'Name or service not known'
+p203
+tp204
+a(g120
+F1290045818.974257
+VSocket Error: 'Name or service not known'
+p205
+tp206
+a(g123
+F1290132517.6115849
+VSocket Error: 'Name or service not known'
+p207
+tp208
+a(g184
+F1290218952.4602211
+VSocket Error: 'Name or service not known'
+p209
+tp210
+a(g126
+F1290305332.752337
+VSocket Error: 'Name or service not known'
+p211
+tp212
+asVhttp://www.ihminen.org/valokuva-albumi/reissut/liftausreissu-viroon-2-662007/
+p213
+(lp214
+(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p215
+F1289489371.662046
+S'404 Not Found'
+p216
+tp217
+a(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p218
+F1289527439.4807031
+S'404 Not Found'
+p219
+tp220
+a(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p221
+F1289613886.080966
+S'404 Not Found'
+p222
+tp223
+a(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p224
+F1289700254.823792
+S'404 Not Found'
+p225
+tp226
+a(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p227
+F1289786641.270304
+S'404 Not Found'
+p228
+tp229
+a(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p230
+F1289873098.7256041
+S'404 Not Found'
+p231
+tp232
+a(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p233
+F1289959474.602402
+S'404 Not Found'
+p234
+tp235
+a(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p236
+F1290045820.658622
+S'404 Not Found'
+p237
+tp238
+a(VTaloista katsoivat pyöreät ikkunat (3.-6.6.2007)
+p239
+F1290132530.819972
+S'404 Not Found'
+p240
+tp241
+asVhttp://www.tallinksilja.com/fi/tab1/routeTrips/hel-tal/
+p242
+(lp243
+(VSuomi
+p244
+F1289489369.429404
+S'404 Not Found'
+p245
+tp246
+a(VSuomi
+p247
+F1289527438.37694
+S'404 Not Found'
+p248
+tp249
+a(VSuomi
+p250
+F1289613884.092999
+S'404 Not Found'
+p251
+tp252
+a(VSuomi
+p253
+F1289700253.1824679
+S'404 Not Found'
+p254
+tp255
+a(VSuomi
+p256
+F1289786640.033802
+S'404 Not Found'
+p257
+tp258
+a(VSuomi
+p259
+F1289873097.61728
+S'404 Not Found'
+p260
+tp261
+a(VSuomi
+p262
+F1289959473.460968
+S'404 Not Found'
+p263
+tp264
+a(VSuomi
+p265
+F1290045819.6415851
+S'404 Not Found'
+p266
+tp267
+a(VSuomi
+p268
+F1290132523.3039131
+S'404 Not Found'
+p269
+tp270
+a(VSuomi
+p271
+F1290218976.649826
+S'404 Not Found'
+p272
+tp273
+a(VSuomi
+p274
+F1290305352.5614469
+S'404 Not Found'
+p275
+tp276
+asVhttp://www.riga.lt/riga
+p277
+(lp278
+(VLatvia
+p279
+F1289489368.1696169
+S'404 Not Found'
+p280
+tp281
+a(VLatvia
+p282
+F1289527438.0107629
+S'404 Not Found'
+p283
+tp284
+a(VLatvia
+p285
+F1289613883.6800599
+S'404 Not Found'
+p286
+tp287
+a(VLatvia
+p288
+F1289700252.770961
+S'404 Not Found'
+p289
+tp290
+a(VLatvia
+p291
+F1289786639.6863899
+S'404 Not Found'
+p292
+tp293
+a(VLatvia
+p294
+F1289873097.263588
+S'404 Not Found'
+p295
+tp296
+a(VLatvia
+p297
+F1289959473.1315899
+S'404 Not Found'
+p298
+tp299
+a(VLatvia
+p300
+F1290045819.3792391
+S'404 Not Found'
+p301
+tp302
+a(VLatvia
+p303
+F1290132519.0633881
+S'404 Not Found'
+p304
+tp305
+a(VLatvia
+p306
+F1290218957.156446
+S'404 Not Found'
+p307
+tp308
+a(VLatvia
+p309
+F1290305337.5104201
+S'404 Not Found'
+p310
+tp311
+as.

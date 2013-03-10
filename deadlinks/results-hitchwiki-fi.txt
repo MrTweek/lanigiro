@@ -1,0 +1,238 @@
+* http://www.hitchhiking.lv
+** In [[Linkit]] on 2010-11-11 15:29:28, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-12 02:03:57, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-13 02:04:43, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-14 02:04:12, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-15 02:03:59, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-16 02:04:57, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-17 02:04:32, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-18 02:03:38, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-19 02:08:37, Socket Error: 'Name or service not known'
+* http://www.ytv.fi/
+** In [[Helsinki]] on 2010-11-11 15:29:28, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-12 02:03:57, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-13 02:04:43, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-14 02:04:12, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-15 02:03:59, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-16 02:04:57, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-17 02:04:32, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-18 02:03:39, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-19 02:08:38, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+* http://www.riga.lt/riga
+** In [[Latvia]] on 2010-11-11 15:29:28, 404 Not Found
+** In [[Latvia]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Latvia]] on 2010-11-13 02:04:43, 404 Not Found
+** In [[Latvia]] on 2010-11-14 02:04:12, 404 Not Found
+** In [[Latvia]] on 2010-11-15 02:03:59, 404 Not Found
+** In [[Latvia]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Latvia]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Latvia]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Latvia]] on 2010-11-19 02:08:39, 404 Not Found
+* http://wiki.rihmasto.fi/index.php?title=Peukalokyyti
+** In [[Sisällön luovutuslista]] on 2010-11-11 15:29:29, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-12 02:04:23, Socket Error: 'Temporary failure in name resolution'
+** In [[Sisällön luovutuslista]] on 2010-11-13 02:04:43, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-14 02:04:12, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-15 02:03:59, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-16 02:04:57, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-17 02:04:33, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-18 02:03:39, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-19 02:08:40, Socket Error: 'Name or service not known'
+* http://www.stranded.to/phpbb/
+** In [[Linkit]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Linkit]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Linkit]] on 2010-11-13 02:04:43, 404 Not Found
+** In [[Linkit]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Linkit]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Linkit]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Linkit]] on 2010-11-17 02:04:34, 404 Not Found
+** In [[Linkit]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Linkit]] on 2010-11-19 02:08:42, 404 Not Found
+* http://www.tallinksilja.com/fi/tab1/routeTrips/hel-tal/
+** In [[Suomi]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Suomi]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Suomi]] on 2010-11-13 02:04:44, 404 Not Found
+** In [[Suomi]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Suomi]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Suomi]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Suomi]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Suomi]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Suomi]] on 2010-11-19 02:08:43, 404 Not Found
+* http://www.oyy.fi/fileadmin/Ylkkari/oy_20080116_nettilehti.pdf
+** In [[Linkit]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Linkit]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Linkit]] on 2010-11-13 02:04:44, 404 Not Found
+** In [[Linkit]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Linkit]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Linkit]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Linkit]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Linkit]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Linkit]] on 2010-11-19 02:08:43, 404 Not Found
+* http://www.tampere.fi/tapahtumat/
+** In [[Tampere]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Tampere]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Tampere]] on 2010-11-13 02:04:44, 404 Not Found
+** In [[Tampere]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Tampere]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Tampere]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Tampere]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Tampere]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Tampere]] on 2010-11-19 02:08:45, 404 Not Found
+* http://www.halti.fi/dynamic/1/productdetail/9/1/15/4616.html
+** In [[Pakkaaminen]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Pakkaaminen]] on 2010-11-12 02:04:01, 404 Not Found
+** In [[Pakkaaminen]] on 2010-11-13 02:04:44, 404 Not Found
+** In [[Pakkaaminen]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Pakkaaminen]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Pakkaaminen]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Pakkaaminen]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Pakkaaminen]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Pakkaaminen]] on 2010-11-19 02:08:48, 404 Not Found
+* http://www.ihminen.org/valokuva-albumi/reissut/liftausreissu-viroon-2-662007/
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-11 15:29:31, 404 Not Found
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-12 02:03:59, 404 Not Found
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-13 02:04:46, 404 Not Found
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-14 02:04:14, 404 Not Found
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-15 02:04:01, 404 Not Found
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-16 02:04:58, 404 Not Found
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-17 02:04:34, 404 Not Found
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-18 02:03:40, 404 Not Found
+** In [[Taloista katsoivat pyöreät ikkunat (3.-6.6.2007)]] on 2010-11-19 02:08:50, 404 Not Found
+* http://www.hitchhiking.lv
+** In [[Linkit]] on 2010-11-11 15:29:28, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-12 02:03:57, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-13 02:04:43, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-14 02:04:12, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-15 02:03:59, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-16 02:04:57, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-17 02:04:32, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-18 02:03:38, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-19 02:08:37, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-20 02:09:12, Socket Error: 'Name or service not known'
+* http://www.ytv.fi/
+** In [[Helsinki]] on 2010-11-11 15:29:28, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-12 02:03:57, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-13 02:04:43, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-14 02:04:12, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-15 02:03:59, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-16 02:04:57, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-17 02:04:32, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-18 02:03:39, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-19 02:08:38, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-20 02:09:13, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+* http://www.riga.lt/riga
+** In [[Latvia]] on 2010-11-11 15:29:28, 404 Not Found
+** In [[Latvia]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Latvia]] on 2010-11-13 02:04:43, 404 Not Found
+** In [[Latvia]] on 2010-11-14 02:04:12, 404 Not Found
+** In [[Latvia]] on 2010-11-15 02:03:59, 404 Not Found
+** In [[Latvia]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Latvia]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Latvia]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Latvia]] on 2010-11-19 02:08:39, 404 Not Found
+** In [[Latvia]] on 2010-11-20 02:09:17, 404 Not Found
+* http://wiki.rihmasto.fi/index.php?title=Peukalokyyti
+** In [[Sisällön luovutuslista]] on 2010-11-11 15:29:29, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-12 02:04:23, Socket Error: 'Temporary failure in name resolution'
+** In [[Sisällön luovutuslista]] on 2010-11-13 02:04:43, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-14 02:04:12, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-15 02:03:59, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-16 02:04:57, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-17 02:04:33, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-18 02:03:39, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-19 02:08:40, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-20 02:09:18, Socket Error: 'Name or service not known'
+* http://www.stranded.to/phpbb/
+** In [[Linkit]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Linkit]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Linkit]] on 2010-11-13 02:04:43, 404 Not Found
+** In [[Linkit]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Linkit]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Linkit]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Linkit]] on 2010-11-17 02:04:34, 404 Not Found
+** In [[Linkit]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Linkit]] on 2010-11-19 02:08:42, 404 Not Found
+** In [[Linkit]] on 2010-11-20 02:09:23, 404 Not Found
+* http://www.tallinksilja.com/fi/tab1/routeTrips/hel-tal/
+** In [[Suomi]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Suomi]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Suomi]] on 2010-11-13 02:04:44, 404 Not Found
+** In [[Suomi]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Suomi]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Suomi]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Suomi]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Suomi]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Suomi]] on 2010-11-19 02:08:43, 404 Not Found
+** In [[Suomi]] on 2010-11-20 02:09:36, 404 Not Found
+* http://www.hitchhiking.lv
+** In [[Linkit]] on 2010-11-11 15:29:28, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-12 02:03:57, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-13 02:04:43, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-14 02:04:12, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-15 02:03:59, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-16 02:04:57, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-17 02:04:32, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-18 02:03:38, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-19 02:08:37, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-20 02:09:12, Socket Error: 'Name or service not known'
+** In [[Linkit]] on 2010-11-21 02:08:52, Socket Error: 'Name or service not known'
+* http://www.ytv.fi/
+** In [[Helsinki]] on 2010-11-11 15:29:28, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-12 02:03:57, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-13 02:04:43, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-14 02:04:12, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-15 02:03:59, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-16 02:04:57, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-17 02:04:32, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-18 02:03:39, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-19 02:08:38, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-20 02:09:13, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+** In [[Helsinki]] on 2010-11-21 02:08:53, HTTP Redirect Loop: [http://www.ytv.fi/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/] -> [http://www.ytv.fi//www.ytv.fi/valisivu/]
+* http://www.riga.lt/riga
+** In [[Latvia]] on 2010-11-11 15:29:28, 404 Not Found
+** In [[Latvia]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Latvia]] on 2010-11-13 02:04:43, 404 Not Found
+** In [[Latvia]] on 2010-11-14 02:04:12, 404 Not Found
+** In [[Latvia]] on 2010-11-15 02:03:59, 404 Not Found
+** In [[Latvia]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Latvia]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Latvia]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Latvia]] on 2010-11-19 02:08:39, 404 Not Found
+** In [[Latvia]] on 2010-11-20 02:09:17, 404 Not Found
+** In [[Latvia]] on 2010-11-21 02:08:57, 404 Not Found
+* http://wiki.rihmasto.fi/index.php?title=Peukalokyyti
+** In [[Sisällön luovutuslista]] on 2010-11-11 15:29:29, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-12 02:04:23, Socket Error: 'Temporary failure in name resolution'
+** In [[Sisällön luovutuslista]] on 2010-11-13 02:04:43, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-14 02:04:12, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-15 02:03:59, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-16 02:04:57, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-17 02:04:33, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-18 02:03:39, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-19 02:08:40, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-20 02:09:18, Socket Error: 'Name or service not known'
+** In [[Sisällön luovutuslista]] on 2010-11-21 02:09:09, Socket Error: 'Name or service not known'
+* http://www.tallinksilja.com/fi/tab1/routeTrips/hel-tal/
+** In [[Suomi]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Suomi]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Suomi]] on 2010-11-13 02:04:44, 404 Not Found
+** In [[Suomi]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Suomi]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Suomi]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Suomi]] on 2010-11-17 02:04:33, 404 Not Found
+** In [[Suomi]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Suomi]] on 2010-11-19 02:08:43, 404 Not Found
+** In [[Suomi]] on 2010-11-20 02:09:36, 404 Not Found
+** In [[Suomi]] on 2010-11-21 02:09:12, 404 Not Found
+* http://www.stranded.to/phpbb/
+** In [[Linkit]] on 2010-11-11 15:29:29, 404 Not Found
+** In [[Linkit]] on 2010-11-12 02:03:58, 404 Not Found
+** In [[Linkit]] on 2010-11-13 02:04:43, 404 Not Found
+** In [[Linkit]] on 2010-11-14 02:04:13, 404 Not Found
+** In [[Linkit]] on 2010-11-15 02:04:00, 404 Not Found
+** In [[Linkit]] on 2010-11-16 02:04:57, 404 Not Found
+** In [[Linkit]] on 2010-11-17 02:04:34, 404 Not Found
+** In [[Linkit]] on 2010-11-18 02:03:39, 404 Not Found
+** In [[Linkit]] on 2010-11-19 02:08:42, 404 Not Found
+** In [[Linkit]] on 2010-11-20 02:09:23, 404 Not Found
+** In [[Linkit]] on 2010-11-21 02:09:15, 404 Not Found

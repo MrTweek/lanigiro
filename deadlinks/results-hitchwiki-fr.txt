@@ -1,0 +1,330 @@
+* http://www.the789project.eu
+** In [[Clubs]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-19 02:08:05, Socket Error: 'Name or service not known'
+* http://www.couchsurfing.org)
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-19 02:08:06, Socket Error: 'Name or service not known'
+* http://www.the789project.com
+** In [[The 789 Project]] on 2010-11-11 15:29:00, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-12 02:03:39, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-13 02:04:31, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-14 02:03:53, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-15 02:03:39, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-16 02:04:16, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-17 02:04:13, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-18 02:03:23, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-19 02:08:06, Socket Error: 'Temporary failure in name resolution'
+* http://www.the789project.eu
+** In [[Clubs]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-19 02:08:05, Socket Error: 'Name or service not known'
+* http://cotralspa.it/scarica_orari_roma.asp
+** In [[Rome]] on 2010-11-11 15:29:00, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-16 02:04:16, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-19 02:08:07, Socket Error: 'Name or service not known'
+* http://www.888project.eu
+** In [[Projet 888]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-19 02:08:13, Socket Error: 'Name or service not known'
+* http://www.fgc.net/accesible/cat/viatjar/s2.htm
+** In [[Barcelone]] on 2010-11-11 15:28:59, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-12 02:03:39, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-13 02:04:28, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-14 02:03:52, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-15 02:03:39, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-16 02:04:16, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-17 02:04:07, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-18 02:03:23, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-19 02:08:17, 404 Object Not Found
+* http://www.tisseo.fr/sites/default/files/Tisseo_ete79web.pdf
+** In [[Toulouse]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Toulouse]] on 2010-11-12 02:03:39, 404 Not Found
+** In [[Toulouse]] on 2010-11-13 02:04:28, 404 Not Found
+** In [[Toulouse]] on 2010-11-14 02:03:52, 404 Not Found
+** In [[Toulouse]] on 2010-11-15 02:03:39, 404 Not Found
+** In [[Toulouse]] on 2010-11-16 02:04:11, 404 Not Found
+** In [[Toulouse]] on 2010-11-17 02:04:07, 404 Not Found
+** In [[Toulouse]] on 2010-11-18 02:03:23, 404 Not Found
+** In [[Toulouse]] on 2010-11-19 02:08:18, 404 Not Found
+* http://www.traversiers.gouv.qc.ca/trav/quebec/index.asp
+** In [[Québec (ville)]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-12 02:03:39, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-13 02:04:28, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-14 02:03:53, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-15 02:03:39, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-16 02:04:11, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-17 02:04:08, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-18 02:03:24, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-19 02:08:20, 404 Not Found
+* http://es.hitchwiki.org/?title=Encuentro_Caraguatay
+** In [[Actualités]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Actualités]] on 2010-11-12 02:03:40, 404 Not Found
+** In [[Actualités]] on 2010-11-13 02:04:29, 404 Not Found
+** In [[Actualités]] on 2010-11-14 02:03:53, 404 Not Found
+** In [[Actualités]] on 2010-11-15 02:03:40, 404 Not Found
+** In [[Actualités]] on 2010-11-16 02:04:17, 404 Not Found
+** In [[Actualités]] on 2010-11-17 02:04:08, 404 Not Found
+** In [[Actualités]] on 2010-11-18 02:03:24, 404 Not Found
+** In [[Actualités]] on 2010-11-19 02:08:21, 404 Not Found
+* http://www.couchsurfing.org)
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-19 02:08:06, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-20 02:08:29, Socket Error: 'Name or service not known'
+* http://www.the789project.eu
+** In [[Clubs]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-19 02:08:05, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-20 02:08:30, Socket Error: 'Name or service not known'
+* http://www.the789project.eu
+** In [[Clubs]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-19 02:08:05, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-20 02:08:30, Socket Error: 'Name or service not known'
+* http://www.888project.eu
+** In [[Projet 888]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-19 02:08:13, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-20 02:08:41, Socket Error: 'Name or service not known'
+* http://cotralspa.it/scarica_orari_roma.asp
+** In [[Rome]] on 2010-11-11 15:29:00, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-16 02:04:16, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-19 02:08:07, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-20 02:08:42, Socket Error: 'Name or service not known'
+* http://www.fgc.net/accesible/cat/viatjar/s2.htm
+** In [[Barcelone]] on 2010-11-11 15:28:59, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-12 02:03:39, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-13 02:04:28, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-14 02:03:52, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-15 02:03:39, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-16 02:04:16, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-17 02:04:07, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-18 02:03:23, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-19 02:08:17, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-20 02:08:47, 404 Object Not Found
+* http://www.tisseo.fr/sites/default/files/Tisseo_ete79web.pdf
+** In [[Toulouse]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Toulouse]] on 2010-11-12 02:03:39, 404 Not Found
+** In [[Toulouse]] on 2010-11-13 02:04:28, 404 Not Found
+** In [[Toulouse]] on 2010-11-14 02:03:52, 404 Not Found
+** In [[Toulouse]] on 2010-11-15 02:03:39, 404 Not Found
+** In [[Toulouse]] on 2010-11-16 02:04:11, 404 Not Found
+** In [[Toulouse]] on 2010-11-17 02:04:07, 404 Not Found
+** In [[Toulouse]] on 2010-11-18 02:03:23, 404 Not Found
+** In [[Toulouse]] on 2010-11-19 02:08:18, 404 Not Found
+** In [[Toulouse]] on 2010-11-20 02:08:48, 404 Not Found
+* http://www.traversiers.gouv.qc.ca/trav/quebec/index.asp
+** In [[Québec (ville)]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-12 02:03:39, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-13 02:04:28, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-14 02:03:53, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-15 02:03:39, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-16 02:04:11, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-17 02:04:08, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-18 02:03:24, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-19 02:08:20, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-20 02:08:50, 404 Not Found
+* http://www.the789project.com
+** In [[The 789 Project]] on 2010-11-11 15:29:00, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-12 02:03:39, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-13 02:04:31, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-14 02:03:53, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-15 02:03:39, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-16 02:04:16, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-17 02:04:13, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-18 02:03:23, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-19 02:08:06, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-20 02:08:51, Socket Error: 'Temporary failure in name resolution'
+* http://es.hitchwiki.org/?title=Encuentro_Caraguatay
+** In [[Actualités]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Actualités]] on 2010-11-12 02:03:40, 404 Not Found
+** In [[Actualités]] on 2010-11-13 02:04:29, 404 Not Found
+** In [[Actualités]] on 2010-11-14 02:03:53, 404 Not Found
+** In [[Actualités]] on 2010-11-15 02:03:40, 404 Not Found
+** In [[Actualités]] on 2010-11-16 02:04:17, 404 Not Found
+** In [[Actualités]] on 2010-11-17 02:04:08, 404 Not Found
+** In [[Actualités]] on 2010-11-18 02:03:24, 404 Not Found
+** In [[Actualités]] on 2010-11-19 02:08:21, 404 Not Found
+** In [[Actualités]] on 2010-11-20 02:08:54, 404 Not Found
+* http://www.the789project.eu
+** In [[Clubs]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-19 02:08:05, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-20 02:08:30, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-21 02:08:13, Socket Error: 'Name or service not known'
+* http://www.couchsurfing.org)
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-19 02:08:06, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-20 02:08:29, Socket Error: 'Name or service not known'
+** In [[De l'Allemagne à la Turquie aller retour, un mois, 200 Euros]] on 2010-11-21 02:08:17, Socket Error: 'Name or service not known'
+* http://www.the789project.eu
+** In [[Clubs]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-19 02:08:05, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-20 02:08:30, Socket Error: 'Name or service not known'
+** In [[Clubs]] on 2010-11-21 02:08:13, Socket Error: 'Name or service not known'
+* http://www.888project.eu
+** In [[Projet 888]] on 2010-11-11 15:28:59, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-16 02:04:11, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-19 02:08:13, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-20 02:08:41, Socket Error: 'Name or service not known'
+** In [[Projet 888]] on 2010-11-21 02:08:18, Socket Error: 'Name or service not known'
+* http://cotralspa.it/scarica_orari_roma.asp
+** In [[Rome]] on 2010-11-11 15:29:00, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-12 02:03:39, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-13 02:04:28, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-14 02:03:52, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-15 02:03:39, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-16 02:04:16, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-17 02:04:07, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-18 02:03:23, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-19 02:08:07, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-20 02:08:42, Socket Error: 'Name or service not known'
+** In [[Rome]] on 2010-11-21 02:08:20, Socket Error: 'Name or service not known'
+* http://www.fgc.net/accesible/cat/viatjar/s2.htm
+** In [[Barcelone]] on 2010-11-11 15:28:59, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-12 02:03:39, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-13 02:04:28, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-14 02:03:52, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-15 02:03:39, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-16 02:04:16, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-17 02:04:07, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-18 02:03:23, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-19 02:08:17, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-20 02:08:47, 404 Object Not Found
+** In [[Barcelone]] on 2010-11-21 02:08:23, 404 Object Not Found
+* http://www.tisseo.fr/sites/default/files/Tisseo_ete79web.pdf
+** In [[Toulouse]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Toulouse]] on 2010-11-12 02:03:39, 404 Not Found
+** In [[Toulouse]] on 2010-11-13 02:04:28, 404 Not Found
+** In [[Toulouse]] on 2010-11-14 02:03:52, 404 Not Found
+** In [[Toulouse]] on 2010-11-15 02:03:39, 404 Not Found
+** In [[Toulouse]] on 2010-11-16 02:04:11, 404 Not Found
+** In [[Toulouse]] on 2010-11-17 02:04:07, 404 Not Found
+** In [[Toulouse]] on 2010-11-18 02:03:23, 404 Not Found
+** In [[Toulouse]] on 2010-11-19 02:08:18, 404 Not Found
+** In [[Toulouse]] on 2010-11-20 02:08:48, 404 Not Found
+** In [[Toulouse]] on 2010-11-21 02:08:23, 404 Not Found
+* http://www.traversiers.gouv.qc.ca/trav/quebec/index.asp
+** In [[Québec (ville)]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-12 02:03:39, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-13 02:04:28, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-14 02:03:53, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-15 02:03:39, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-16 02:04:11, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-17 02:04:08, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-18 02:03:24, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-19 02:08:20, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-20 02:08:50, 404 Not Found
+** In [[Québec (ville)]] on 2010-11-21 02:08:30, 404 Not Found
+* http://es.hitchwiki.org/?title=Encuentro_Caraguatay
+** In [[Actualités]] on 2010-11-11 15:29:00, 404 Not Found
+** In [[Actualités]] on 2010-11-12 02:03:40, 404 Not Found
+** In [[Actualités]] on 2010-11-13 02:04:29, 404 Not Found
+** In [[Actualités]] on 2010-11-14 02:03:53, 404 Not Found
+** In [[Actualités]] on 2010-11-15 02:03:40, 404 Not Found
+** In [[Actualités]] on 2010-11-16 02:04:17, 404 Not Found
+** In [[Actualités]] on 2010-11-17 02:04:08, 404 Not Found
+** In [[Actualités]] on 2010-11-18 02:03:24, 404 Not Found
+** In [[Actualités]] on 2010-11-19 02:08:21, 404 Not Found
+** In [[Actualités]] on 2010-11-20 02:08:54, 404 Not Found
+** In [[Actualités]] on 2010-11-21 02:08:31, 404 Not Found
+* http://www.the789project.com
+** In [[The 789 Project]] on 2010-11-11 15:29:00, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-12 02:03:39, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-13 02:04:31, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-14 02:03:53, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-15 02:03:39, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-16 02:04:16, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-17 02:04:13, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-18 02:03:23, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-19 02:08:06, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-20 02:08:51, Socket Error: 'Temporary failure in name resolution'
+** In [[The 789 Project]] on 2010-11-21 02:08:34, Socket Error: 'Temporary failure in name resolution'

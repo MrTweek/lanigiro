@@ -1,4 +1,0 @@
-lanigiro
-========
-
-Bot for hitchwiki

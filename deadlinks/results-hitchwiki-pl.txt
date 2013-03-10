@@ -1,0 +1,80 @@
+* http://www.autostopek.pl
+** In [[Strony internetowe]] on 2010-11-11 15:33:06, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-12 02:08:30, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-13 02:08:08, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-14 02:08:39, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-15 02:07:36, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-16 02:10:01, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-17 02:08:50, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-18 02:07:44, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-19 02:12:40, Socket Error: 'Name or service not known'
+* http://www.kmlomianki.info/lomianki02/001pl%20wilsona%202.htm
+** In [[Warszawa]] on 2010-11-11 15:33:06, 404 Not Found
+** In [[Warszawa]] on 2010-11-12 02:08:30, 404 Not Found
+** In [[Warszawa]] on 2010-11-13 02:08:08, 404 Not Found
+** In [[Warszawa]] on 2010-11-14 02:08:39, 404 Not Found
+** In [[Warszawa]] on 2010-11-15 02:07:36, 404 Not Found
+** In [[Warszawa]] on 2010-11-16 02:10:01, 404 Not Found
+** In [[Warszawa]] on 2010-11-17 02:08:50, 404 Not Found
+** In [[Warszawa]] on 2010-11-18 02:07:44, 404 Not Found
+** In [[Warszawa]] on 2010-11-19 02:12:46, 404 Not Found
+* http://www.tesco.pl/sklepy-tesco/sklepy/wroclaw-bielany/rozkladjazdy-01.html
+** In [[Wrocław]] on 2010-11-11 15:33:06, 404 Not Found
+** In [[Wrocław]] on 2010-11-13 02:08:08, 404 Not Found
+** In [[Wrocław]] on 2010-11-14 02:08:39, 404 Not Found
+** In [[Wrocław]] on 2010-11-15 02:07:36, 404 Not Found
+** In [[Wrocław]] on 2010-11-16 02:10:01, 404 Not Found
+** In [[Wrocław]] on 2010-11-17 02:08:50, 404 Not Found
+** In [[Wrocław]] on 2010-11-18 02:07:44, 404 Not Found
+** In [[Wrocław]] on 2010-11-19 02:12:49, 404 Not Found
+* http://www.tesco.pl/sklepy-tesco/sklepy/wroclaw-bielany/rozkladjazdy-01.html
+** In [[Wrocław]] on 2010-11-11 15:33:06, 404 Not Found
+** In [[Wrocław]] on 2010-11-13 02:08:08, 404 Not Found
+** In [[Wrocław]] on 2010-11-14 02:08:39, 404 Not Found
+** In [[Wrocław]] on 2010-11-15 02:07:36, 404 Not Found
+** In [[Wrocław]] on 2010-11-16 02:10:01, 404 Not Found
+** In [[Wrocław]] on 2010-11-17 02:08:50, 404 Not Found
+** In [[Wrocław]] on 2010-11-18 02:07:44, 404 Not Found
+** In [[Wrocław]] on 2010-11-19 02:12:49, 404 Not Found
+* http://www.autostopek.pl
+** In [[Strony internetowe]] on 2010-11-11 15:33:06, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-12 02:08:30, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-13 02:08:08, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-14 02:08:39, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-15 02:07:36, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-16 02:10:01, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-17 02:08:50, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-18 02:07:44, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-19 02:12:40, Socket Error: 'Name or service not known'
+** In [[Strony internetowe]] on 2010-11-20 02:13:32, Socket Error: 'Name or service not known'
+* http://www.kmlomianki.info/lomianki02/001pl%20wilsona%202.htm
+** In [[Warszawa]] on 2010-11-11 15:33:06, 404 Not Found
+** In [[Warszawa]] on 2010-11-12 02:08:30, 404 Not Found
+** In [[Warszawa]] on 2010-11-13 02:08:08, 404 Not Found
+** In [[Warszawa]] on 2010-11-14 02:08:39, 404 Not Found
+** In [[Warszawa]] on 2010-11-15 02:07:36, 404 Not Found
+** In [[Warszawa]] on 2010-11-16 02:10:01, 404 Not Found
+** In [[Warszawa]] on 2010-11-17 02:08:50, 404 Not Found
+** In [[Warszawa]] on 2010-11-18 02:07:44, 404 Not Found
+** In [[Warszawa]] on 2010-11-19 02:12:46, 404 Not Found
+** In [[Warszawa]] on 2010-11-20 02:13:34, 404 Not Found
+* http://www.tesco.pl/sklepy-tesco/sklepy/wroclaw-bielany/rozkladjazdy-01.html
+** In [[Wrocław]] on 2010-11-11 15:33:06, 404 Not Found
+** In [[Wrocław]] on 2010-11-13 02:08:08, 404 Not Found
+** In [[Wrocław]] on 2010-11-14 02:08:39, 404 Not Found
+** In [[Wrocław]] on 2010-11-15 02:07:36, 404 Not Found
+** In [[Wrocław]] on 2010-11-16 02:10:01, 404 Not Found
+** In [[Wrocław]] on 2010-11-17 02:08:50, 404 Not Found
+** In [[Wrocław]] on 2010-11-18 02:07:44, 404 Not Found
+** In [[Wrocław]] on 2010-11-19 02:12:49, 404 Not Found
+** In [[Wrocław]] on 2010-11-20 02:13:36, 404 Not Found
+* http://www.tesco.pl/sklepy-tesco/sklepy/wroclaw-bielany/rozkladjazdy-01.html
+** In [[Wrocław]] on 2010-11-11 15:33:06, 404 Not Found
+** In [[Wrocław]] on 2010-11-13 02:08:08, 404 Not Found
+** In [[Wrocław]] on 2010-11-14 02:08:39, 404 Not Found
+** In [[Wrocław]] on 2010-11-15 02:07:36, 404 Not Found
+** In [[Wrocław]] on 2010-11-16 02:10:01, 404 Not Found
+** In [[Wrocław]] on 2010-11-17 02:08:50, 404 Not Found
+** In [[Wrocław]] on 2010-11-18 02:07:44, 404 Not Found
+** In [[Wrocław]] on 2010-11-19 02:12:49, 404 Not Found
+** In [[Wrocław]] on 2010-11-20 02:13:36, 404 Not Found
